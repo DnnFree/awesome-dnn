@@ -3,7 +3,7 @@
 > A curated list of awesome things related to DNN
 
 ### Official Resources
-- [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform)
+- [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform) - Latest release: [DNN 08.00.04](https://github.com/dnnsoftware/Dnn.Platform/releases)
 - [DNN wiki](http://www.dnnsoftware.com/wiki)
 - [DNN Docs](http://www.dnnsoftware.com/docs/index.html)
 - [DNN Videos](http://www.dnnsoftware.com/videos)
