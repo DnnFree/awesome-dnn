@@ -4,17 +4,15 @@
 
 ### Official Resources
 
-...
+- [DNN wiki](http://www.dnnsoftware.com/wiki)
+- [DNN Docs](http://www.dnnsoftware.com/docs/index.html)
+- [DNN Videos](http://www.dnnsoftware.com/videos)
 
-### Community
-
-...
-
-### Modules
+### Free Modules
 
 ...
 
-### Skins/Theme
+### Free Skins/Theme
 
 ...
 
