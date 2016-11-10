@@ -9,3 +9,11 @@
 ### Community
 
 ...
+
+### Modules
+
+...
+
+### Skins/Theme
+
+...
