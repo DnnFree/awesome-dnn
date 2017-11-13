@@ -39,10 +39,15 @@
 - [User Friendly Registration ](https://ufregistrationplugin.codeplex.com/) - (by: @fordnn)
 - [Active Forum](https://github.com/activeforums/ActiveForums) - (by: @activeforums)
 - [DNN-Blog](https://github.com/DNN-Connect/DNN-Blog) - (by: @DNN-Connect)
+- [dnnDocuments](https://github.com/mitchelsellers/dnnDocuments) - (by: @mitchelsellers)
+- [AppInsights module](https://github.com/davidjrh/dnn.appinsights) A module to use Visual Studio Application Insights with the DNN - (by: @davidjrh)
+
+## OLD
+- [DnnBulkUserDelete](https://github.com/brucerchapman/DnnBulkUserDelete) - (by: @brucerchapman)
 
 ### Free Skins/Theme
 
-[in progress]
+[DNN Contra](https://github.com/dnnconsulting/DnnC.Contra) - (by: @dnnconsulting)
 
 ### Showcase
 
