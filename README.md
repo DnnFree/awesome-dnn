@@ -3,7 +3,7 @@
 > A curated list of awesome things related to DNN
 
 ### Official Resources
-- [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform) - Latest release: [DNN 08.00.04](https://github.com/dnnsoftware/Dnn.Platform/releases)
+- [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform) - [Latest release](https://github.com/dnnsoftware/Dnn.Platform/releases)
 - [DNN wiki](http://www.dnnsoftware.com/wiki)
 - [DNN Docs](http://www.dnnsoftware.com/docs/index.html)
 - [DNN Videos](http://www.dnnsoftware.com/videos)
@@ -14,7 +14,7 @@
 
 ### Development Tools
 
-[in progress]
+[TopMenu](https://github.com/jbrinkman/TopMenu) Sample Razor Templates for DDRMenu - (@jbrinkman)
 
 ### Open Source Modules
 - [DNN 8: Message of the Day](https://github.com/ChrisHammond/MessageOfTheDay) - A simple MVC module (by: @ChrisHammond)
@@ -40,14 +40,18 @@
 - [Active Forum](https://github.com/activeforums/ActiveForums) - (by: @activeforums)
 - [DNN-Blog](https://github.com/DNN-Connect/DNN-Blog) - (by: @DNN-Connect)
 - [dnnDocuments](https://github.com/mitchelsellers/dnnDocuments) - (by: @mitchelsellers)
-- [AppInsights module](https://github.com/davidjrh/dnn.appinsights) A module to use Visual Studio Application Insights with the DNN - (by: @davidjrh)
+- [AppInsights module](https://github.com/davidjrh/dnn.appinsights) - A module to use Visual Studio Application Insights with the DNN (by: @davidjrh)
+- [Redis Caching Provider for DNN](https://github.com/davidjrh/dnn.rediscachingprovider) - (by: @davidjrh)
+- [DNN Azure Active Directory Provider](https://github.com/davidjrh/dnn.azureadprovider) is an Authentication provider for DNN - (by: @davidjrh)
 
-## OLD
+## OLD Modules
 - [DnnBulkUserDelete](https://github.com/brucerchapman/DnnBulkUserDelete) - (by: @brucerchapman)
+- [dnnGlimpse](https://github.com/jbrinkman/dnnGlimpse) module that aids in troubleshooting server-side - (by: @jbrinkman)
+- [DNN QA](https://github.com/DNN-Connect/DNNQA) - (by: @DNN-Connect)
 
 ### Free Skins/Theme
 
-[DNN Contra](https://github.com/dnnconsulting/DnnC.Contra) - (by: @dnnconsulting)
+- [DNN Contra](https://github.com/dnnconsulting/DnnC.Contra) - (by: @dnnconsulting)
 
 ### Showcase
 
