@@ -37,6 +37,8 @@
 - [DataExporter](https://dataexport.codeplex.com/) - Export Data from database. (by: @fordnn)
 - [User Import & Export](https://usersexportimport.codeplex.com/) - Export/import users. (by: @fordnn)
 - [User Friendly Registration ](https://ufregistrationplugin.codeplex.com/) - (by: @fordnn)
+- [Active Forum](https://github.com/activeforums/ActiveForums) - (by: @activeforums)
+- [DNN-Blog](https://github.com/DNN-Connect/DNN-Blog) - (by: @DNN-Connect)
 
 ### Free Skins/Theme
 
