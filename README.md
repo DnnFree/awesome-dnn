@@ -81,6 +81,10 @@
 - [DN[NVideoCourseModule](https://github.com/ralphwilliams/DNNVideoCourseModule) - (by: @ralphwilliams)
 - [DNNQuickSurvey](https://github.com/ralphwilliams/DNNQuickSurvey) - (by: @ralphwilliams)
 - [dnnTurbo Scripts](https://github.com/dnnwerk/dnnScript/) improving your DNN Database - (by: @dnnwerk)
+- [Ventrian Modules](https://github.com/ventrian) great modules to extend DNN features
+  - [News Articles](https://github.com/ventrian/News-Articles) News Articles for DotNetNuke has been helping DotNetNuke administrators to publish articles and blogs to their DotNetNuke portals since 2004
+  - [Property Agent](https://github.com/ventrian/Property-Agent) Property Agent for DotNetNuke is a templated property module that allows you to manage and display all kinds of properties from cars to boats to real estate
+  - [Simple Gallery](https://github.com/ventrian/Simple-Gallery) Simple Gallery for DotNetNuke has been helping DotNetNuke administrators to publish photos and albums to their DotNetNuke portals since 2005
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
