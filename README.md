@@ -51,7 +51,8 @@
 - [DNN Azure Active Directory Provider](https://github.com/davidjrh/dnn.azureadprovider) is an Authentication provider for DNN - (by: @davidjrh)
 - [surveybox](https://github.com/surveyproject/surveybox) - (by: @surveyproject)
 - [HotCakes Commerce Core](https://github.com/HotcakesCommerce/core) - (by: @HotcakesCommerce)
-- [HotCakes Commerce CMS](https://github.com/HotcakesCommerce/cms) - (by: @HotcakesCommerce)
+  - [HotCakes Commerce CMS](https://github.com/HotcakesCommerce/cms)
+  - [HotcakesCartItemCount](https://github.com/nvisionative/HotcakesCartItemCount) - (by: @nvisionative)
 - [YAF.NET - Yet Another Forum.Net](https://github.com/YAFNET/YAFNET-DNN)
 
 ### OLD Modules
