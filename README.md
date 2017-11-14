@@ -15,6 +15,7 @@
 ### Development Tools
 - [DNNTemplates](https://github.com/ChrisHammond/DNNTemplates) DNN Module and Theme Development Template - (by: @ChrisHammond)
 - [TopMenu](https://github.com/jbrinkman/TopMenu) Sample Razor Templates for DDRMenu - (by: @jbrinkman)
+- [DNN8Templates](https://github.com/dnnsoftware/DNN.Templates) Module and Theme Development templates for DNN 8 - (by: @dnnsoftware)
 
 ### Open Source Modules
 - [DNN.Announcements](https://github.com/DNNCommunity/DNN.Announcements) - (by: @DNNCommunity)
@@ -53,9 +54,33 @@
 - [HotCakes Commerce Core](https://github.com/HotcakesCommerce/core) - (by: @HotcakesCommerce)
   - [HotCakes Commerce CMS](https://github.com/HotcakesCommerce/cms)
   - [HotcakesCartItemCount](https://github.com/nvisionative/HotcakesCartItemCount) - (by: @nvisionative)
+- [All in one DNN Extensions](https://github.com/hismightiness/dnnextensions) - (by: @hismightiness - Will Strohl)
+  - [Disqus Module](https://github.com/hismightiness/dnnextensions/releases/tag/Disqus-02.01.01)
+  - [Code Camp Module](https://github.com/hismightiness/dnnextensions/releases/tag/CodeCamp-01.00.03)
+  - [Content Injection](https://github.com/hismightiness/dnnextensions/releases/tag/ContentInjection-02.00.02)
+  - [Lightbox Gallery Module](https://github.com/hismightiness/dnnextensions/releases/tag/Lightbox-01.12.00)
+  - [Content Slider](https://github.com/hismightiness/dnnextensions/releases/tag/ContentSlider-01.03.01)
+  - oEmbed Wrapper for .Net
+  - DNN Google Hangout Module
+  - DNN Media Module
+  - User Group Labs: Meta Data Module
+  - User Group Labs: My Groups Module
+  - User Group Labs: Group Data Module
+  - Contact Collector Module
+  - Content Slider Module
+  - Content Injection Module
+  - Lightbox Gallery Module
+  - Open Graph Protocol Module
+  - DNN Demo Skin Objects
+  - PrismJS Skin Object
+  - DNN Parallax Skin
+  - Future Gravity Skin
+  - DNN Widget Suite
 - [YAF.NET - Yet Another Forum.Net](https://github.com/YAFNET/YAFNET-DNN) - (by: @YAFNET)
-- [DNNVideoCourseModule](https://github.com/ralphwilliams/DNNVideoCourseModule) - (by: @ralphwilliams)
+  - [Active Forums to YAF.Net Migration](https://github.com/sleupold/AF_YAF.Net_Migration) - (by: @sleupold)
+- [DN[NVideoCourseModule](https://github.com/ralphwilliams/DNNVideoCourseModule) - (by: @ralphwilliams)
 - [DNNQuickSurvey](https://github.com/ralphwilliams/DNNQuickSurvey) - (by: @ralphwilliams)
+- [dnnTurbo Scripts](https://github.com/dnnwerk/dnnScript/) improving your DNN Database - (by: @dnnwerk)
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
@@ -79,23 +104,6 @@
 - [DNN-Translator](https://github.com/DNN-Connect/DNN-Translator) - (by: @DNN-Connect)
 - [RoleManager](https://github.com/DNN-Connect/RoleManager) - (by: @DNN-Connect)
 - [X3.DnnUrlManagement](https://github.com/mathisjay/X3.DnnUrlManagement) UX for manage settings of DNN's Adv.Url Management - (by: @mathisjay)
-- [All in one DNN Extensions](https://github.com/hismightiness/dnnextensions) - (by: @hismightiness - Will Strohl)
-  - oEmbed Wrapper for .Net
-  - DNN Google Hangout Module
-  - DNN Media Module
-  - User Group Labs: Meta Data Module
-  - User Group Labs: My Groups Module
-  - User Group Labs: Group Data Module
-  - Contact Collector Module
-  - Content Slider Module
-  - Content Injection Module
-  - Lightbox Gallery Module
-  - Open Graph Protocol Module
-  - DNN Demo Skin Objects
-  - PrismJS Skin Object
-  - DNN Parallax Skin
-  - Future Gravity Skin
-  - DNN Widget Suite
 
 ### Free Skins/Theme
 - [DNN Contra](https://github.com/dnnconsulting/DnnC.Contra) Dnn 8/9 responsive theme using Bootstrap 4 - (by: @dnnconsulting)
@@ -107,6 +115,10 @@
 ### Sample Code/Project
 - [DNN-SignalR](https://github.com/ChrisHammond/DNN-SignalR) Sample code for DNN modules using SignalR - (by: @ChrisHammond)
 - [Dnn.Platform.Samples.Mvc](https://github.com/ChrisHammond/Dnn.Platform.Samples.Mvc) Sample projects to create MVC and SPA modules using DNN Platform 8.0 - (by: @ChrisHammond)
+- [Module injection filters sample](https://github.com/jbrinkman/Dnn.InjectionFilter.Sample) - (by: @jbrinkman)
+- [Sample Mobile Apps to access DNN Platform Web APIs](https://github.com/dnnsoftware/Dnn.Platform.Samples.Mobile) - (by: @dnnsoftware)
+- [Sample projects to create MVC & SPA module using DNN 8.0](https://github.com/dnnsoftware/Dnn.Platform.Samples.Mvc) - (by: @dnnsoftware)
+- [Liquid Content Code Samples](https://github.com/dnnsoftware/Dnn.Evoq.LiquidContent.Samples.Public) - (by: @dnnsoftware)
 
 ### Showcase
 
