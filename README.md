@@ -53,7 +53,8 @@
 - [HotCakes Commerce Core](https://github.com/HotcakesCommerce/core) - (by: @HotcakesCommerce)
   - [HotCakes Commerce CMS](https://github.com/HotcakesCommerce/cms)
   - [HotcakesCartItemCount](https://github.com/nvisionative/HotcakesCartItemCount) - (by: @nvisionative)
-- [YAF.NET - Yet Another Forum.Net](https://github.com/YAFNET/YAFNET-DNN)
+- [YAF.NET - Yet Another Forum.Net](https://github.com/YAFNET/YAFNET-DNN) - (by: @YAFNET)
+- [DNNVideoCourseModule](https://github.com/ralphwilliams/DNNVideoCourseModule) - (by: @ralphwilliams)
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
