@@ -50,6 +50,9 @@
 - [Redis Caching Provider for DNN](https://github.com/davidjrh/dnn.rediscachingprovider) - (by: @davidjrh)
 - [DNN Azure Active Directory Provider](https://github.com/davidjrh/dnn.azureadprovider) is an Authentication provider for DNN - (by: @davidjrh)
 - [surveybox](https://github.com/surveyproject/surveybox) - (by: @surveyproject)
+- [HotCakes Commerce Core](https://github.com/HotcakesCommerce/core) - (by: @HotcakesCommerce)
+- [HotCakes Commerce CMS](https://github.com/HotcakesCommerce/cms) - (by: @HotcakesCommerce)
+- [YAF.NET - Yet Another Forum.Net](https://github.com/YAFNET/YAFNET-DNN)
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
@@ -72,6 +75,24 @@
 - [DNN QA](https://github.com/DNN-Connect/DNNQA) - (by: @DNN-Connect)
 - [DNN-Translator](https://github.com/DNN-Connect/DNN-Translator) - (by: @DNN-Connect)
 - [RoleManager](https://github.com/DNN-Connect/RoleManager) - (by: @DNN-Connect)
+- [X3.DnnUrlManagement](https://github.com/mathisjay/X3.DnnUrlManagement) UX for manage settings of DNN's Adv.Url Management - (by: @mathisjay)
+- [All in one DNN Extensions](https://github.com/hismightiness/dnnextensions) - (by: @hismightiness - Will Strohl)
+  - oEmbed Wrapper for .Net
+  - DNN Google Hangout Module
+  - DNN Media Module
+  - User Group Labs: Meta Data Module
+  - User Group Labs: My Groups Module
+  - User Group Labs: Group Data Module
+  - Contact Collector Module
+  - Content Slider Module
+  - Content Injection Module
+  - Lightbox Gallery Module
+  - Open Graph Protocol Module
+  - DNN Demo Skin Objects
+  - PrismJS Skin Object
+  - DNN Parallax Skin
+  - Future Gravity Skin
+  - DNN Widget Suite
 
 ### Free Skins/Theme
 - [DNN Contra](https://github.com/dnnconsulting/DnnC.Contra) Dnn 8/9 responsive theme using Bootstrap 4 - (by: @dnnconsulting)
