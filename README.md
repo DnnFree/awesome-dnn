@@ -49,6 +49,7 @@
 - [AppInsights module](https://github.com/davidjrh/dnn.appinsights) - A module to use Visual Studio Application Insights with the DNN (by: @davidjrh)
 - [Redis Caching Provider for DNN](https://github.com/davidjrh/dnn.rediscachingprovider) - (by: @davidjrh)
 - [DNN Azure Active Directory Provider](https://github.com/davidjrh/dnn.azureadprovider) is an Authentication provider for DNN - (by: @davidjrh)
+- [surveybox](https://github.com/surveyproject/surveybox) - (by: @surveyproject)
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
@@ -76,6 +77,7 @@
 - [DNN Contra](https://github.com/dnnconsulting/DnnC.Contra) Dnn 8/9 responsive theme using Bootstrap 4 - (by: @dnnconsulting)
 - [DNN Bootster](https://github.com/dnnconsulting/DnnC.BootsterV2) responsive skin\theme using Bootstrap 4.0.0.beta - (by: @dnnconsulting)
 - [dnnmdesign](https://github.com/dnnconsulting/DnnC.MDesign) Bootstrap 3.3.6 Theme - (by: @dnnconsulting)
+- [DnnThemeEditor](https://github.com/dnnconsulting/DnnC.DnnThemeEditor/releases) Theme Editor SkinObject - (by: @dnnconsulting)
 - [HammerFlex](https://github.com/ChrisHammond/HammerFlex) Bootstrap 3 Theme - (by: @ChrisHammond)
 
 ### Sample Code/Project
