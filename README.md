@@ -46,6 +46,8 @@
 - [User Friendly Registration ](https://ufregistrationplugin.codeplex.com/) - (by: @fordnn)
 - [Active Forum](https://github.com/activeforums/ActiveForums) - (by: @activeforums)
 - [DNN-Blog](https://github.com/DNN-Connect/DNN-Blog) - (by: @DNN-Connect)
+- [DNN Connect Conference module](https://github.com/DNN-Connect/Conference) is used to create and manage our yearly conferences - (by: @DNN-Connect)
+- [Connect.Map](https://github.com/DNN-Connect/Map) Google maps module for DNN 8+ - (by: @DNN-Connect)
 - [dnnDocuments](https://github.com/mitchelsellers/dnnDocuments) - (by: @mitchelsellers)
 - [AppInsights module](https://github.com/davidjrh/dnn.appinsights) - A module to use Visual Studio Application Insights with the DNN (by: @davidjrh)
 - [Redis Caching Provider for DNN](https://github.com/davidjrh/dnn.rediscachingprovider) - (by: @davidjrh)
@@ -86,6 +88,15 @@
   - [Property Agent](https://github.com/ventrian/Property-Agent) Property Agent for DotNetNuke is a templated property module that allows you to manage and display all kinds of properties from cars to boats to real estate
   - [Simple Gallery](https://github.com/ventrian/Simple-Gallery) Simple Gallery for DotNetNuke has been helping DotNetNuke administrators to publish photos and albums to their DotNetNuke portals since 2005
 - [NB-Store](https://github.com/nbrightproject/NBrightBuy) E-Commerce for DNN - (by: @nbrightproject)
+- [Aricie.PortalKeeper](https://github.com/Aricie/Aricie.PortalKeeper) is a DNN module to build agents - (by: @aricie)
+- [BBImageStory](https://github.com/weggetor/BBImageStory) is DNN Module for creating image stories - (by: @weggetor)
+- [DnnJobBoard](https://github.com/INNO-Software/DnnJobBoard) a job listing and application module - (by: @INNO-Software)
+- [MyDnn.LiveChat](https://github.com/mydnn/LiveChat) is a powerfull module for Chat with visitors in real-time - (by: @mydnn)
+- [UManage](https://github.com/OPSI-srl/UManage) is Simple and Fast User Management for DNN 8.0 - (by: @OPSI-srl)
+- [CallTrackerLite](https://github.com/dmcdonald11/CallTrackerLite) is to replace an Access Database application utilizing DNN 8 - (by: @dmcdonald11)
+- [DNN Dev Tools](https://github.com/weweave/DnnDevTools) The Swiss army knife for DNN developers and host admins - (by: @weweave)
+- [DNN 8 Shoutbox SPA Module](https://github.com/markmcavoy/ShoutboxSPA) - (by: @markmcavoy)
+- [DnnLogAnalyzer](https://github.com/DotNetNuclear/DnnLogAnalyzer) - (by: @DotNetNuclear)
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
@@ -124,6 +135,7 @@
 - [Sample Mobile Apps to access DNN Platform Web APIs](https://github.com/dnnsoftware/Dnn.Platform.Samples.Mobile) - (by: @dnnsoftware)
 - [Sample projects to create MVC & SPA module using DNN 8.0](https://github.com/dnnsoftware/Dnn.Platform.Samples.Mvc) - (by: @dnnsoftware)
 - [Liquid Content Code Samples](https://github.com/dnnsoftware/Dnn.Evoq.LiquidContent.Samples.Public) - (by: @dnnsoftware)
+- [Restaurant Menu](https://github.com/DotNetNuclear/DnnRestaurantMenu) is written in 3 different installable types: an MVC module, a SPA module, and a Webforms module - (by: @DotNetNuclear)
 
 ### Showcase
 
