@@ -101,6 +101,12 @@
 - [DNNSpot-Quiz](https://github.com/DNNspot/DNNspot-Quiz) - (@DNNSpot)
 - [DNNSpot-Maps](https://github.com/DNNspot/DNNspot-Maps) - (@DNNSpot)
 - [DNNSpot.Tags](https://github.com/DNNspot/DNNspot.Tags) - (@DNNSpot)
+- [DNNStuff - Aggregator](https://github.com/redtempo/dnnstuff.aggregator) - tabbed modules or content module.
+- [DNNStuff - Inject Anything](https://github.com/redtempo/dnnstuff.injectanything) - html or script injection module.
+- [DNNStuff - SQLViewPro](https://github.com/redtempo/dnnstuff.sqlviewpro) - present your data in grid, template or chart.
+- [DNNStuff - Favorites](https://github.com/redtempo/dnnstuff.favorites) - allows a user to manage a list of favorite pages.
+- [DNNStuff - Module Rotator](https://github.com/redtempo/dnnstuff.modulerotator) - rotate modules on page change or timer.
+- [DNNStuff - Welcome](https://github.com/redtempo/dnnstuff.welcome) - show a welcome where visibility can be controlled by the site visitor
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
