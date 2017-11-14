@@ -97,6 +97,10 @@
 - [DNN Dev Tools](https://github.com/weweave/DnnDevTools) The Swiss army knife for DNN developers and host admins - (by: @weweave)
 - [DNN 8 Shoutbox SPA Module](https://github.com/markmcavoy/ShoutboxSPA) - (by: @markmcavoy)
 - [DnnLogAnalyzer](https://github.com/DotNetNuclear/DnnLogAnalyzer) - (by: @DotNetNuclear)
+- [DNNSpot-Store](https://github.com/DNNspot/DNNspot.Store) an eCommerce Module for DNN - (@DNNSpot)
+- [DNNSpot-Quiz](https://github.com/DNNspot/DNNspot-Quiz) - (@DNNSpot)
+- [DNNSpot-Maps](https://github.com/DNNspot/DNNspot-Maps) - (@DNNSpot)
+- [DNNSpot.Tags](https://github.com/DNNspot/DNNspot.Tags) - (@DNNSpot)
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
