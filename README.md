@@ -55,6 +55,7 @@
   - [HotcakesCartItemCount](https://github.com/nvisionative/HotcakesCartItemCount) - (by: @nvisionative)
 - [YAF.NET - Yet Another Forum.Net](https://github.com/YAFNET/YAFNET-DNN) - (by: @YAFNET)
 - [DNNVideoCourseModule](https://github.com/ralphwilliams/DNNVideoCourseModule) - (by: @ralphwilliams)
+- [DNNQuickSurvey](https://github.com/ralphwilliams/DNNQuickSurvey) - (by: @ralphwilliams)
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
