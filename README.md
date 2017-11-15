@@ -95,6 +95,7 @@
 - [UManage](https://github.com/OPSI-srl/UManage) is Simple and Fast User Management for DNN 8.0 - (by: @OPSI-srl)
 - [CallTrackerLite](https://github.com/dmcdonald11/CallTrackerLite) is to replace an Access Database application utilizing DNN 8 - (by: @dmcdonald11)
 - [DNN-GitHub-Authentication](https://github.com/cathalconnolly/DNN-GitHub-Authentication) - (by: @cathalconnolly)
+- [X3.DnnUrlManagement](https://github.com/mathisjay/X3.DnnUrlManagement) UX for manage settings of DNN's Adv.Url Management - (by: @mathisjay)
 - [DNN Dev Tools](https://github.com/weweave/DnnDevTools) The Swiss army knife for DNN developers and host admins - (by: @weweave)
 - [DNN 8 Shoutbox SPA Module](https://github.com/markmcavoy/ShoutboxSPA) - (by: @markmcavoy)
 - [DnnLogAnalyzer](https://github.com/DotNetNuclear/DnnLogAnalyzer) - (by: @DotNetNuclear)
@@ -146,7 +147,6 @@
 - [DNN QA](https://github.com/DNN-Connect/DNNQA) - (by: @DNN-Connect)
 - [DNN-Translator](https://github.com/DNN-Connect/DNN-Translator) - (by: @DNN-Connect)
 - [RoleManager](https://github.com/DNN-Connect/RoleManager) - (by: @DNN-Connect)
-- [X3.DnnUrlManagement](https://github.com/mathisjay/X3.DnnUrlManagement) UX for manage settings of DNN's Adv.Url Management - (by: @mathisjay)
 
 ### Free Skins/Theme
 - [DNN Contra](https://github.com/dnnconsulting/DnnC.Contra) Dnn 8/9 responsive theme using Bootstrap 4 - (by: @dnnconsulting)
