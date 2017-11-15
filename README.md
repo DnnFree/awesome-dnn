@@ -94,19 +94,36 @@
 - [MyDnn.LiveChat](https://github.com/mydnn/LiveChat) is a powerfull module for Chat with visitors in real-time - (by: @mydnn)
 - [UManage](https://github.com/OPSI-srl/UManage) is Simple and Fast User Management for DNN 8.0 - (by: @OPSI-srl)
 - [CallTrackerLite](https://github.com/dmcdonald11/CallTrackerLite) is to replace an Access Database application utilizing DNN 8 - (by: @dmcdonald11)
+- [DNN-GitHub-Authentication](https://github.com/cathalconnolly/DNN-GitHub-Authentication) - (by: @cathalconnolly)
 - [DNN Dev Tools](https://github.com/weweave/DnnDevTools) The Swiss army knife for DNN developers and host admins - (by: @weweave)
 - [DNN 8 Shoutbox SPA Module](https://github.com/markmcavoy/ShoutboxSPA) - (by: @markmcavoy)
 - [DnnLogAnalyzer](https://github.com/DotNetNuclear/DnnLogAnalyzer) - (by: @DotNetNuclear)
-- [DNNSpot-Store](https://github.com/DNNspot/DNNspot.Store) an eCommerce Module for DNN - (@DNNSpot)
-- [DNNSpot-Quiz](https://github.com/DNNspot/DNNspot-Quiz) - (@DNNSpot)
-- [DNNSpot-Maps](https://github.com/DNNspot/DNNspot-Maps) - (@DNNSpot)
-- [DNNSpot.Tags](https://github.com/DNNspot/DNNspot.Tags) - (@DNNSpot)
+- [DNNSpot - Store](https://github.com/DNNspot/DNNspot.Store) an eCommerce Module for DNN - (@DNNSpot)
+- [DNNSpot - Quiz](https://github.com/DNNspot/DNNspot-Quiz) - (@DNNSpot)
+- [DNNSpot - Maps](https://github.com/DNNspot/DNNspot-Maps) - (@DNNSpot)
+- [DNNSpot - Tags](https://github.com/DNNspot/DNNspot.Tags) - (@DNNSpot)
 - [DNNStuff - Aggregator](https://github.com/redtempo/dnnstuff.aggregator) - tabbed modules or content module.
 - [DNNStuff - Inject Anything](https://github.com/redtempo/dnnstuff.injectanything) - html or script injection module.
 - [DNNStuff - SQLViewPro](https://github.com/redtempo/dnnstuff.sqlviewpro) - present your data in grid, template or chart.
 - [DNNStuff - Favorites](https://github.com/redtempo/dnnstuff.favorites) - allows a user to manage a list of favorite pages.
 - [DNNStuff - Module Rotator](https://github.com/redtempo/dnnstuff.modulerotator) - rotate modules on page change or timer.
 - [DNNStuff - Welcome](https://github.com/redtempo/dnnstuff.welcome) - show a welcome where visibility can be controlled by the site visitor
+- [Engage Modules](https://github.com/EngageSoftware) - great module to extend DNN - (by: @Engage)
+  - [DNN-JavaScript-Libraries](https://github.com/EngageSoftware/DNN-JavaScript-Libraries) Common JavaScript libraries packaged as DNN JavaScript Library extensions
+  - [safe-dnn-minification](https://github.com/EngageSoftware/safe-dnn-minification) A replacement for the JS and CSS minification with the Client Dependency Framework that DNN uses
+  - [Engage-Jackrabbit](https://github.com/EngageSoftware/Engage-Jackrabbit) is a utility module which allows an administrator to add scripts to a page
+  - [Engage-Application-Insights](https://github.com/EngageSoftware/Engage-Application-Insights) is an extension for the DNN Platform to integrate Application Insights monitoring
+  - [Engage-Booking](https://github.com/EngageSoftware/Engage-Booking) is an appointment management tool
+  - [Engage-F3](https://github.com/EngageSoftware/Engage-F3) allows you to quickly and easily search for a string in the Text/HTML modules
+  - [Engage-Employment](https://github.com/EngageSoftware/Engage-Employment) is a job listing and applicant management tool
+  - [Engage-Survey](https://github.com/EngageSoftware/Engage-Survey) is a survey and form building tool
+  - [Engage-Publish](https://github.com/EngageSoftware/Engage-Publish) is an article management system/workflow engine
+  - [Engage-Take-Out](https://github.com/EngageSoftware/Engage-Take-Out) for importing and exporting site settings which aren't typically included in site templates
+  - [Engage-Rotator](https://github.com/EngageSoftware/Engage-Rotator) is a slider/rotator tool
+  - [Engage-Locator](https://github.com/EngageSoftware/Engage-Locator) is a location management tool
+  - [Engage-Events](https://github.com/EngageSoftware/Engage-Events) is a calendar and event management system
+  - [Engage-Dashboard](https://github.com/EngageSoftware/Engage-Dashboard) is an administrative tool for the DNN
+  - [Engage-Tell-a-Friend](https://github.com/EngageSoftware/Engage-Tell-a-Friend) gives your website visitors the ability to share links to your site with friends
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
