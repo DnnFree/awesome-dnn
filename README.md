@@ -125,6 +125,7 @@
   - [Engage-Events](https://github.com/EngageSoftware/Engage-Events) is a calendar and event management system
   - [Engage-Dashboard](https://github.com/EngageSoftware/Engage-Dashboard) is an administrative tool for the DNN
   - [Engage-Tell-a-Friend](https://github.com/EngageSoftware/Engage-Tell-a-Friend) gives your website visitors the ability to share links to your site with friends
+- [Dnn.IdentitySwitcher](https://github.com/erikvb/Dnn.IdentitySwitcher) switch between users without knowing their passwords. - (by: @erikvb)
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
