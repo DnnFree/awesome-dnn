@@ -134,6 +134,13 @@
   - [R7.News](https://github.com/roman-yagodin/R7.News) Taxonomy-driven news subsystem
   - [R7.ImageHandler](https://github.com/roman-yagodin/R7.ImageHandler)
   - [R7.MiniGallery](https://github.com/roman-yagodin/R7.MiniGallery) Simple image gallery module
+- BitBoxx modules - (by: @weggetor)
+  - [BBImageHandler](https://github.com/weggetor/BBImageHandler) DNN 6/7 Image handler to display, resize, watermarks, thumbnails
+  - [BBImageHandler-8](https://github.com/weggetor/BBImageHandler-8) DNN 8 Image handler to display, resize, watermarks, thumbnails
+  - [BBImageStory](https://github.com/weggetor/BBImageStory) create image stories, step-by-step guides or image galleries with subtexts
+  - [BBBooking](https://github.com/weggetor/BBBooking) Simple DNN module for renting an object on a daily basis
+  - [BBContact](https://github.com/weggetor/BBContact) Simple configurable contact form, easy setup & email notification
+  - [BBNews](https://github.com/weggetor/BBNews) collecting and providing news, able to collect from RSS/Atom feeds or twitter
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
