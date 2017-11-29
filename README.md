@@ -128,7 +128,7 @@
   - [Engage-Dashboard](https://github.com/EngageSoftware/Engage-Dashboard) is an administrative tool for the DNN
   - [Engage-Tell-a-Friend](https://github.com/EngageSoftware/Engage-Tell-a-Friend) gives your website visitors the ability to share links to your site with friends
 - [Dnn.IdentitySwitcher](https://github.com/erikvb/Dnn.IdentitySwitcher) switch between users without knowing their passwords. - (by: @erikvb)
-- [R7 Modules] - (by: @roman-yagodin)
+- R7 Modules - (by: @roman-yagodin)
   - [R7.University](https://github.com/roman-yagodin/R7.University) designed to present and manage high school educational organization assets (divisions, employees, courses, etc.)
   - [R7.Documents](https://github.com/roman-yagodin/R7.Documents) Redesigned version of DNN Documents module
   - [R7.News](https://github.com/roman-yagodin/R7.News) Taxonomy-driven news subsystem
