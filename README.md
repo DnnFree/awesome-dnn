@@ -20,10 +20,27 @@
 - [DnnPackager](https://github.com/dazinator/DnnPackager) Module Development
 
 ### Open Source Modules
-- [DNN.Announcements](https://github.com/DNNCommunity/DNN.Announcements) - (by: @DNNCommunity)
-- [SecurityAnalyzer](https://github.com/DNNCommunity/SecurityAnalyzer) - (by: @DNNCommunity)
-- [DNN.Events](https://github.com/DNNCommunity/DNN.Events) - (by: @DNNCommunity)
-- [DNN.Reports](https://github.com/DNNCommunity/DNN.Reports) - (by: @DNNCommunity)
+- DNNCommunity module collection to extend DNN features
+  - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog)
+  - [DNN.Feedback](https://github.com/DNNCommunity/DNN.Feedback)
+  - [DNN.Vendors](https://github.com/DNNCommunity/DNN.Vendors)
+  - [DNN.ActiveDirectory](https://github.com/DNNCommunity/DNN.ActiveDirectory)
+  - [DNN.FormAndList](https://github.com/DNNCommunity/DNN.FormAndList)
+  - [DNN.Faq](https://github.com/DNNCommunity/DNN.Faq)
+  - [Dnn.Newsletter](https://github.com/DNNCommunity/Dnn.Newsletter)
+  - [DNN.IFrame](https://github.com/DNNCommunity/DNN.IFrame)
+  - [DNN.XML](https://github.com/DNNCommunity/DNN.XML)
+  - [DNN.Links](https://github.com/DNNCommunity/DNN.Links)
+  - [DNN.Wiki](https://github.com/DNNCommunity/DNN.Wiki)
+  - [DNN.NewsFeeds](https://github.com/DNNCommunity/DNN.NewsFeeds)
+  - [DNN.Forum](https://github.com/DNNCommunity/DNN.Forum)
+  - [DNNUserGroups](https://github.com/DNNCommunity/DNNUserGroups)
+  - [DNN.Announcements](https://github.com/DNNCommunity/DNN.Announcements)
+  - [SecurityAnalyzer](https://github.com/DNNCommunity/SecurityAnalyzer)
+  - [DNN.Events](https://github.com/DNNCommunity/DNN.Events)
+  - [DNN.Reports](https://github.com/DNNCommunity/DNN.Reports)
+- [DnnBulkUserDelete](https://github.com/brucerchapman/DnnBulkUserDelete) - (by: @brucerchapman)
+- [dnnGlimpse](https://github.com/jbrinkman/dnnGlimpse) module that aids in troubleshooting server-side - (by: @jbrinkman)
 - [dnnCHAT](https://github.com/ChrisHammond/dnnCHAT) Chat module for DNN - (by: @ChrisHammond)
 - [dnnsimplearticle](https://github.com/ChrisHammond/dnnsimplearticle) A simple DNN articles module - (by: @ChrisHammond)
 - [Message of the Day](https://github.com/ChrisHammond/MessageOfTheDay) A simple MVC module - (by: @ChrisHammond)
@@ -47,9 +64,14 @@
 - [User Import & Export](https://usersexportimport.codeplex.com/) - Export/import users. (by: @fordnn)
 - [User Friendly Registration ](https://ufregistrationplugin.codeplex.com/) - (by: @fordnn)
 - [Active Forum](https://github.com/activeforums/ActiveForums) - (by: @activeforums)
-- [DNN-Blog](https://github.com/DNN-Connect/DNN-Blog) - (by: @DNN-Connect)
-- [DNN Connect Conference module](https://github.com/DNN-Connect/Conference) is used to create and manage our yearly conferences - (by: @DNN-Connect)
-- [Connect.Map](https://github.com/DNN-Connect/Map) Google maps module for DNN 8+ - (by: @DNN-Connect)
+- DNN-Connect Modules collection (by: @DNN-Connect)
+  - [DNN-Blog](https://github.com/DNN-Connect/DNN-Blog)
+  - [DNN Connect Conference module](https://github.com/DNN-Connect/Conference) is used to create and manage our yearly conferences
+  - [Connect.Map](https://github.com/DNN-Connect/Map) Google maps module for DNN 8+
+  - [DNN.Events](https://github.com/DNN-Connect/DNN.Events)
+  - [DNN QA](https://github.com/DNN-Connect/DNNQA)
+  - [DNN-Translator](https://github.com/DNN-Connect/DNN-Translator)
+  - [RoleManager](https://github.com/DNN-Connect/RoleManager)
 - [dnnDocuments](https://github.com/mitchelsellers/dnnDocuments) - (by: @mitchelsellers)
 - [AppInsights module](https://github.com/davidjrh/dnn.appinsights) - A module to use Visual Studio Application Insights with the DNN (by: @davidjrh)
 - [Redis Caching Provider for DNN](https://github.com/davidjrh/dnn.rediscachingprovider) - (by: @davidjrh)
@@ -101,16 +123,18 @@
 - [DNN Dev Tools](https://github.com/weweave/DnnDevTools) The Swiss army knife for DNN developers and host admins - (by: @weweave)
 - [DNN 8 Shoutbox SPA Module](https://github.com/markmcavoy/ShoutboxSPA) - (by: @markmcavoy)
 - [DnnLogAnalyzer](https://github.com/DotNetNuclear/DnnLogAnalyzer) - (by: @DotNetNuclear)
-- [DNNSpot - Store](https://github.com/DNNspot/DNNspot.Store) an eCommerce Module for DNN - (@DNNSpot)
-- [DNNSpot - Quiz](https://github.com/DNNspot/DNNspot-Quiz) - (@DNNSpot)
-- [DNNSpot - Maps](https://github.com/DNNspot/DNNspot-Maps) - (@DNNSpot)
-- [DNNSpot - Tags](https://github.com/DNNspot/DNNspot.Tags) - (@DNNSpot)
-- [DNNStuff - Aggregator](https://github.com/redtempo/dnnstuff.aggregator) - tabbed modules or content module.
-- [DNNStuff - Inject Anything](https://github.com/redtempo/dnnstuff.injectanything) - html or script injection module.
-- [DNNStuff - SQLViewPro](https://github.com/redtempo/dnnstuff.sqlviewpro) - present your data in grid, template or chart.
-- [DNNStuff - Favorites](https://github.com/redtempo/dnnstuff.favorites) - allows a user to manage a list of favorite pages.
-- [DNNStuff - Module Rotator](https://github.com/redtempo/dnnstuff.modulerotator) - rotate modules on page change or timer.
-- [DNNStuff - Welcome](https://github.com/redtempo/dnnstuff.welcome) - show a welcome where visibility can be controlled by the site visitor
+- DNNSpot Modules (@DNNSpot)
+  - [DNNSpot - Store](https://github.com/DNNspot/DNNspot.Store) an eCommerce Module for DNN
+  - [DNNSpot - Quiz](https://github.com/DNNspot/DNNspot-Quiz)
+  - [DNNSpot - Maps](https://github.com/DNNspot/DNNspot-Maps)
+  - [DNNSpot - Tags](https://github.com/DNNspot/DNNspot.Tags)
+- DNNStuff modules
+  - [Aggregator](https://github.com/redtempo/dnnstuff.aggregator) - tabbed modules or content module.
+  - [Inject Anything](https://github.com/redtempo/dnnstuff.injectanything) - html or script injection module.
+  - [SQLViewPro](https://github.com/redtempo/dnnstuff.sqlviewpro) - present your data in grid, template or chart.
+  - [Favorites](https://github.com/redtempo/dnnstuff.favorites) - allows a user to manage a list of favorite pages.
+  - [Module Rotator](https://github.com/redtempo/dnnstuff.modulerotator) - rotate modules on page change or timer.
+  - [Welcome](https://github.com/redtempo/dnnstuff.welcome) - show a welcome where visibility can be controlled by the site visitor
 - [Engage Modules](https://github.com/EngageSoftware) - great module to extend DNN - (by: @Engage)
   - [DNN-JavaScript-Libraries](https://github.com/EngageSoftware/DNN-JavaScript-Libraries) Common JavaScript libraries packaged as DNN JavaScript Library extensions
   - [safe-dnn-minification](https://github.com/EngageSoftware/safe-dnn-minification) A replacement for the JS and CSS minification with the Client Dependency Framework that DNN uses
@@ -141,28 +165,6 @@
   - [BBBooking](https://github.com/weggetor/BBBooking) Simple DNN module for renting an object on a daily basis
   - [BBContact](https://github.com/weggetor/BBContact) Simple configurable contact form, easy setup & email notification
   - [BBNews](https://github.com/weggetor/BBNews) collecting and providing news, able to collect from RSS/Atom feeds or twitter
-
-### OLD Modules
-- [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
-- [DNN.Feedback](https://github.com/DNNCommunity/DNN.Feedback) - (by: @DNNCommunity)
-- [DNN.Vendors](https://github.com/DNNCommunity/DNN.Vendors) - (by: @DNNCommunity)
-- [DNN.ActiveDirectory](https://github.com/DNNCommunity/DNN.ActiveDirectory) - (by: @DNNCommunity)
-- [DNN.FormAndList](https://github.com/DNNCommunity/DNN.FormAndList) - (by: @DNNCommunity)
-- [DNN.Faq](https://github.com/DNNCommunity/DNN.Faq) - (by: @DNNCommunity)
-- [Dnn.Newsletter](https://github.com/DNNCommunity/Dnn.Newsletter) - (by: @DNNCommunity)
-- [DNN.IFrame](https://github.com/DNNCommunity/DNN.IFrame) - (by: @DNNCommunity)
-- [DNN.XML](https://github.com/DNNCommunity/DNN.XML) - (by: @DNNCommunity)
-- [DNN.Links](https://github.com/DNNCommunity/DNN.Links) - (by: @DNNCommunity)
-- [DNN.Wiki](https://github.com/DNNCommunity/DNN.Wiki) - (by: @DNNCommunity)
-- [DNN.NewsFeeds](https://github.com/DNNCommunity/DNN.NewsFeeds) - (by: @DNNCommunity)
-- [DNN.Forum](https://github.com/DNNCommunity/DNN.Forum) - (by: @DNNCommunity)
-- [DNNUserGroups](https://github.com/DNNCommunity/DNNUserGroups) - (by: @DNNCommunity)
-- [DnnBulkUserDelete](https://github.com/brucerchapman/DnnBulkUserDelete) - (by: @brucerchapman)
-- [dnnGlimpse](https://github.com/jbrinkman/dnnGlimpse) module that aids in troubleshooting server-side - (by: @jbrinkman)
-- [DNN.Events](https://github.com/DNN-Connect/DNN.Events) - (by: @DNN-Connect)
-- [DNN QA](https://github.com/DNN-Connect/DNNQA) - (by: @DNN-Connect)
-- [DNN-Translator](https://github.com/DNN-Connect/DNN-Translator) - (by: @DNN-Connect)
-- [RoleManager](https://github.com/DNN-Connect/RoleManager) - (by: @DNN-Connect)
 
 ### Free Skins/Theme
 - [DNN Contra](https://github.com/dnnconsulting/DnnC.Contra) Dnn 8/9 responsive theme using Bootstrap 4 - (by: @dnnconsulting)
