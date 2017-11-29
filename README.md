@@ -14,10 +14,10 @@
 - [DnnPackager - Getting Started](http://darrelltunnell.net/blog/2015/12/01/dnnpackager-getting-started/)
 
 ### Development Tools
-- [DNNTemplates](https://github.com/ChrisHammond/DNNTemplates) DNN Module and Theme Development Template for DNN 7/8/9 - (by: @ChrisHammond)
-- [TopMenu](https://github.com/jbrinkman/TopMenu) Sample Razor Templates for DDRMenu - (by: @jbrinkman)
-- [DNN8Templates](https://github.com/dnnsoftware/DNN.Templates) Module and Theme Development templates for DNN 8 - (by: @dnnsoftware)
-- [DnnPackager](https://github.com/dazinator/DnnPackager) Module Development - (by: @dazinator)
+- [DNNTemplates](https://github.com/ChrisHammond/DNNTemplates) DNN Module and Theme Development Template for DNN 7/8/9
+- [TopMenu](https://github.com/jbrinkman/TopMenu) Sample Razor Templates for DDRMenu
+- [DNN8Templates](https://github.com/dnnsoftware/DNN.Templates) Module and Theme Development templates for DNN 8
+- [DnnPackager](https://github.com/dazinator/DnnPackager) Module Development
 
 ### Open Source Modules
 - [DNN.Announcements](https://github.com/DNNCommunity/DNN.Announcements) - (by: @DNNCommunity)
