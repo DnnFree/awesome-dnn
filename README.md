@@ -128,6 +128,12 @@
   - [Engage-Dashboard](https://github.com/EngageSoftware/Engage-Dashboard) is an administrative tool for the DNN
   - [Engage-Tell-a-Friend](https://github.com/EngageSoftware/Engage-Tell-a-Friend) gives your website visitors the ability to share links to your site with friends
 - [Dnn.IdentitySwitcher](https://github.com/erikvb/Dnn.IdentitySwitcher) switch between users without knowing their passwords. - (by: @erikvb)
+- [R7 Modules] - (by: @roman-yagodin)
+  - [R7.University](https://github.com/roman-yagodin/R7.University) designed to present and manage high school educational organization assets (divisions, employees, courses, etc.)
+  - [R7.Documents](https://github.com/roman-yagodin/R7.Documents) Redesigned version of DNN Documents module
+  - [R7.News](https://github.com/roman-yagodin/R7.News) Taxonomy-driven news subsystem
+  - [R7.ImageHandler](https://github.com/roman-yagodin/R7.ImageHandler)
+  - [R7.MiniGallery](https://github.com/roman-yagodin/R7.MiniGallery) Simple image gallery module
 
 ### OLD Modules
 - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) - (by: @DNNCommunity)
@@ -157,6 +163,7 @@
 - [dnnmdesign](https://github.com/dnnconsulting/DnnC.MDesign) Bootstrap 3.3.6 Theme - (by: @dnnconsulting)
 - [DnnThemeEditor](https://github.com/dnnconsulting/DnnC.DnnThemeEditor/releases) Theme Editor SkinObject - (by: @dnnconsulting)
 - [HammerFlex](https://github.com/ChrisHammond/HammerFlex) Bootstrap 3 Theme - (by: @ChrisHammond)
+- [R7.Epsilon](https://github.com/roman-yagodin/R7.Epsilon) Bootstrap 3 - (by: @roman-yagodin)
 
 ### Sample Code/Project
 - [DNN-SignalR](https://github.com/ChrisHammond/DNN-SignalR) Sample code for DNN modules using SignalR - (by: @ChrisHammond)
