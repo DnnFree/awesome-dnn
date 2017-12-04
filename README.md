@@ -18,6 +18,7 @@
 - [TopMenu](https://github.com/jbrinkman/TopMenu) Sample Razor Templates for DDRMenu
 - [DNN8Templates](https://github.com/dnnsoftware/DNN.Templates) Module and Theme Development templates for DNN 8
 - [DnnPackager](https://github.com/dazinator/DnnPackager) Module Development
+- [2sxc](https://github.com/2sic/2sxc) helps web designers and developers prepare great looking, animated and sexy content templates in DNN
 
 ### Open Source Modules
 - DNNCommunity module collection to extend DNN features
