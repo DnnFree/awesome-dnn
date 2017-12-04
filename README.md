@@ -171,6 +171,7 @@
 - [DNN Bootster](https://github.com/dnnconsulting/DnnC.BootsterV2) responsive skin\theme using Bootstrap 4.0.0.beta - (by: @dnnconsulting)
 - [dnnmdesign](https://github.com/dnnconsulting/DnnC.MDesign) Bootstrap 3.3.6 Theme - (by: @dnnconsulting)
 - [DnnThemeEditor](https://github.com/dnnconsulting/DnnC.DnnThemeEditor/releases) Theme Editor SkinObject - (by: @dnnconsulting)
+- [DnnC.Minimalist](https://github.com/dnnconsulting/DnnC.Minimalist) Bootstrap 3 Theme - (by: @dnnconsulting)
 - [HammerFlex](https://github.com/ChrisHammond/HammerFlex) Bootstrap 3 Theme - (by: @ChrisHammond)
 - [R7.Epsilon](https://github.com/roman-yagodin/R7.Epsilon) Bootstrap 3 - (by: @roman-yagodin)
 
