@@ -18,7 +18,6 @@
 - [TopMenu](https://github.com/jbrinkman/TopMenu) Sample Razor Templates for DDRMenu
 - [DNN8Templates](https://github.com/dnnsoftware/DNN.Templates) Module and Theme Development templates for DNN 8
 - [DnnPackager](https://github.com/dazinator/DnnPackager) Module Development
-- [2sxc](https://github.com/2sic/2sxc) helps web designers and developers prepare great looking, animated and sexy content templates in DNN
 - [nvQuickSite](https://github.com/nvisionative/nvQuickSite) is a desktop installation app for DNN
 
 ### Open Source Modules
@@ -167,6 +166,7 @@
   - [BBBooking](https://github.com/weggetor/BBBooking) Simple DNN module for renting an object on a daily basis
   - [BBContact](https://github.com/weggetor/BBContact) Simple configurable contact form, easy setup & email notification
   - [BBNews](https://github.com/weggetor/BBNews) collecting and providing news, able to collect from RSS/Atom feeds or twitter
+- [2sxc](https://github.com/2sic/2sxc) helps web designers and developers prepare great looking, animated and sexy content templates in DNN
 
 ### Free Skins/Theme
 - [DNN Contra](https://github.com/dnnconsulting/DnnC.Contra) Dnn 8/9 responsive theme using Bootstrap 4 - (by: @dnnconsulting)
