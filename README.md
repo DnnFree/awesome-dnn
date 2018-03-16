@@ -176,6 +176,7 @@
 - [DnnC.Minimalist](https://github.com/dnnconsulting/DnnC.Minimalist) Bootstrap 3 Theme - (by: @dnnconsulting)
 - [HammerFlex](https://github.com/ChrisHammond/HammerFlex) Bootstrap 3 Theme - (by: @ChrisHammond)
 - [R7.Epsilon](https://github.com/roman-yagodin/R7.Epsilon) Bootstrap 3 - (by: @roman-yagodin)
+- [Bootstrap3 Instant](https://github.com/2sic/dnn-theme-bootstrap3-instant) - (by: @2sxc)
 
 ### Sample Code/Project
 - [DNN-SignalR](https://github.com/ChrisHammond/DNN-SignalR) Sample code for DNN modules using SignalR - (by: @ChrisHammond)
