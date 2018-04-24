@@ -14,7 +14,8 @@
 - [DnnPackager - Getting Started](http://darrelltunnell.net/blog/2015/12/01/dnnpackager-getting-started/)
 
 ### Development Tools
-- [DnnFree Module SPA React](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module create using latest React & Webpack
+- [DnnFree React](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module create using latest React & Webpack
+- [DnnFree Angular](https://github.com/DnnFree/DnnFree.Modules.SPA.Angular) a starter DNN SPA Module create using Angular 5 (with Angular-CLI)
 - [DNNTemplates](https://github.com/ChrisHammond/DNNTemplates) DNN Module and Theme Development Template for DNN 7/8/9
 - [TopMenu](https://github.com/jbrinkman/TopMenu) Sample Razor Templates for DDRMenu
 - [DNN8Templates](https://github.com/dnnsoftware/DNN.Templates) Module and Theme Development templates for DNN 8
@@ -23,6 +24,7 @@
 
 ### Open Source Modules
 - [DnnFree Module SPA React](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module create using latest React & Webpack
+- [DnnFree Module SPA Angular](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module create using Angular 5
 - DNNCommunity module collection to extend DNN features
   - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog)
   - [DNN.Feedback](https://github.com/DNNCommunity/DNN.Feedback)
