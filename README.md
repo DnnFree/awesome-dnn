@@ -24,7 +24,7 @@
 
 ### Open Source Modules
 - [DnnFree Module SPA React](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module create using latest React & Webpack
-- [DnnFree Module SPA Angular](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module create using Angular 5
+- [DnnFree Module SPA Angular](https://github.com/DnnFree/DnnFree.Modules.SPA.Angular) a starter DNN SPA Module create using Angular 5
 - DNNCommunity module collection to extend DNN features
   - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog)
   - [DNN.Feedback](https://github.com/DNNCommunity/DNN.Feedback)
