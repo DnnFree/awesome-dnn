@@ -21,6 +21,8 @@
 - [DNN8Templates](https://github.com/dnnsoftware/DNN.Templates) Module and Theme Development templates for DNN 8
 - [DnnPackager](https://github.com/dazinator/DnnPackager) Module Development
 - [nvQuickSite](https://github.com/nvisionative/nvQuickSite) is a desktop installation app for DNN
+- [nvQuickTheme](https://github.com/nvisionative/nvQuickTheme) is a DNN theme framework / development workflow
+- [nvQuickComponents](https://github.com/nvisionative/nvQuickComponents) is a collection of Web Components for DNN extension development (and beyond)
 
 ### Open Source Modules
 - [DnnFree Module SPA React](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module create using latest React & Webpack
