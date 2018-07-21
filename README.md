@@ -186,6 +186,7 @@
 - [R7.Epsilon](https://github.com/roman-yagodin/R7.Epsilon) Bootstrap 3 - (by: @roman-yagodin)
 - [Bootstrap3 Instant](https://github.com/2sic/dnn-theme-bootstrap3-instant) - (by: @2sxc)
 - [nvQuickTheme: DNN 9 + Bootstrap 4](https://github.com/nvisionative/nvQuickTheme) great minimalist DNN theme- (by: @nvisionative)
+- [aarsysmetro7skin](https://github.com/aarsys/aarsysmetro7skin) Metro style 4 color skin package - (by: @aarsys)
 
 ### Sample Code/Project
 - [DNN-SignalR](https://github.com/ChrisHammond/DNN-SignalR) Sample code for DNN modules using SignalR - (by: @ChrisHammond)
