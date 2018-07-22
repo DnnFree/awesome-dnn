@@ -25,6 +25,11 @@
 - [nvQuickComponents](https://github.com/nvisionative/nvQuickComponents) is a collection of Web Components for DNN extension development (and beyond)
 - [DnnC.DBAnalyzer](https://github.com/dnnconsulting/DnnC.DBAnalyzer) a tool that will give you a visualization of your Dnn database
 - [DnnUserAccess-Mobile](https://github.com/DNN-Connect/DnnUserAccess-Mobile) Mobile app that pairs with the DNN User Access personabar extension. This app is made in React Native.
+- [R7.Dnn.Extensions](https://github.com/roman-yagodin/R7.Dnn.Extensions) A library to simplify extensions development for DNN Platform
+- [R7.Dnn.Extensions.React](https://github.com/roman-yagodin/R7.Dnn.Extensions.React) Library for DNN Platform web CMS extensions development with ReactJS.NET
+- [R7.Dnn.Extensions.EFCore](https://github.com/roman-yagodin/R7.Dnn.Extensions.EFCore) A library for DNN Platform web CMS extensions development with Entity Framework Core
+- [R7.Dnn.Templates](https://github.com/roman-yagodin/R7.Dnn.Templates) DNN Platform project templates and helper addin for MonoDevelop / Xamarin Studio
+- [R7.Webmaster](https://github.com/roman-yagodin/R7.Webmaster) Webmaster's desktop productivity tools
 
 ### Open Source Modules
 - [DnnFree Module SPA React](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module create using latest React & Webpack
@@ -45,7 +50,7 @@
   - [DNN.Forum](https://github.com/DNNCommunity/DNN.Forum) used for managing forums and email notification of posts
   - [DNNUserGroups](https://github.com/DNNCommunity/DNNUserGroups)
   - [DNN.Announcements](https://github.com/DNNCommunity/DNN.Announcements) a basic module used for displaying news items
-  - [SecurityAnalyzer](https://github.com/DNNCommunity/SecurityAnalyzer)
+  - [SecurityAnalyzer](https://github.com/DNNCommunity/SecurityAnalyzer) is a module aimed at helping you to improve the security on your DNN website
   - [DNN.Events](https://github.com/DNNCommunity/DNN.Events) manages display of upcoming events as a list in chronological order or in calendar format
   - [DNN.Reports](https://github.com/DNNCommunity/DNN.Reports) provides a simple, flexible, view on your database
   - [CaptainHook](https://github.com/DNNCommunity/CaptainHook) a simple GitHub Bot for processing Pull Requests
@@ -62,11 +67,15 @@
 - [Message of the Day](https://github.com/ChrisHammond/MessageOfTheDay) A simple MVC module - (by: @ChrisHammond)
 - @sachatrauwaen Module collection
   - [Open Url Rewriter](https://github.com/sachatrauwaen/OpenUrlRewriter) improve SEO and overall Site quality
+    - [PropertyAgent_OpenUrlRewriter](https://github.com/sachatrauwaen/PropertyAgent_OpenUrlRewriter) Open Url Rewriter provider for Ventrian Property Agent
+	- [SQL_OpenUrlRewriter](https://github.com/sachatrauwaen/SQL_OpenUrlRewriter) Generic SQL provider for Open Url Rewriter for DNN
   - [NBStore_OpenUrlRewriter](https://github.com/sachatrauwaen/NBStore_OpenUrlRewriter) NBStore Provider for OpenUrlRewriter
   - [Open Content](https://github.com/sachatrauwaen/OpenContent) Structured Content editing
     - [Open Content Template](https://github.com/sachatrauwaen/OpenContent-Templates) Template for Open Content
     - [OpenContent_OpenUrlRewriter](https://github.com/sachatrauwaen/OpenContent_OpenUrlRewriter) DNN OpenUrlRewriter for OpenContent module
   - [Open Form](https://github.com/sachatrauwaen/openform) Create end users forms like contact, register, etc
+  - [OpenImageProcessor](https://github.com/sachatrauwaen/OpenImageProcessor) DNN wrapper library around ImageProcessor Library For On-The-Fly Processing Of Images
+  - [OpenOutputCache](https://github.com/sachatrauwaen/OpenOutputCache) 
   - [Content Localization Tools](https://github.com/sachatrauwaen/CLTools)
 - @IowaComputerGurus Module Collection
   - [Database Exporter](https://github.com/IowaComputerGurus/dnn.dbexporter)
@@ -92,7 +101,7 @@
   - [DNN.Events](https://github.com/DNN-Connect/DNN.Events)
   - [DNN QA](https://github.com/DNN-Connect/DNNQA)
   - [DNN-Translator](https://github.com/DNN-Connect/DNN-Translator) helps you translate resource files in DNN
-  - [RoleManager](https://github.com/DNN-Connect/RoleManager)
+  - [RoleManager](https://github.com/DNN-Connect/RoleManager) Module to manage user role memberships
   - [CKEditorProvider](https://github.com/DNN-Connect/CKEditorProvider)
   - [Connect-Projects](https://github.com/DNN-Connect/Connect-Projects) Project gallery module
   - [Connect.UserAccess](https://github.com/DNN-Connect/Connect.UserAccess) Personabar extension to manage users' access to a site
@@ -101,6 +110,8 @@
   - [FlickrGallery](https://github.com/DNN-Connect/FlickrGallery) module to show group photos sorted by date taken
   - [IdentitySwitcher](https://github.com/DNN-Connect/IdentitySwitcher) Allows you to switch between users, without knowing their passwords
   - [LPManager](https://github.com/DNN-Connect/LPManager) Language Pack Manager, formerly known as DNN Europe LocalizationEditor
+  - [SiteNews](https://github.com/DNN-Connect/SiteNews) Display new or modified contents from a web site.
+  - [SkinControls](https://github.com/DNN-Connect/SkinControls) DNN Connect skin controls suite
 - [dnnDocuments](https://github.com/mitchelsellers/dnnDocuments) - (by: @mitchelsellers)
 - [AppInsights module](https://github.com/davidjrh/dnn.appinsights) - A module to use Visual Studio Application Insights with the DNN (by: @davidjrh)
 - [Redis Caching Provider for DNN](https://github.com/davidjrh/dnn.rediscachingprovider) - (by: @davidjrh)
@@ -140,6 +151,11 @@
   - [News Articles](https://github.com/ventrian/News-Articles) News Articles for DotNetNuke has been helping DotNetNuke administrators to publish articles and blogs to their DotNetNuke portals since 2004
   - [Property Agent](https://github.com/ventrian/Property-Agent) Property Agent for DotNetNuke is a templated property module that allows you to manage and display all kinds of properties from cars to boats to real estate
   - [Simple Gallery](https://github.com/ventrian/Simple-Gallery) Simple Gallery for DotNetNuke has been helping DotNetNuke administrators to publish photos and albums to their DotNetNuke portals since 2005
+  - [Child-Links](https://github.com/ventrian/Child-Links) is a navigation utility for helping administrators build their DNN sites.
+  - [Feedback-Center](https://github.com/ventrian/Feedback-Center) is a module for collecting and organising feedback on any particular suite of products.
+  - [File-Links](https://github.com/ventrian/File-Links) is a navigation utility for helping administrators displays lists of files.
+  - [Subscriptions](https://github.com/ventrian/Subscriptions) Subscription management
+  - [Subscription-Tools](https://github.com/ventrian/Subscription-Tools) is a module for managing subscription payments within DotNetNuke.
 - [NB-Store](https://github.com/nbrightproject/NBrightBuy) E-Commerce for DNN - (by: @nbrightproject)
   - [MolliePaymentProvider](https://github.com/dnnconsulting/MolliePaymentProvider) Mollie Payment Provider for NBrightBuy (by: @dnnconsulting)
 - [Aricie.PortalKeeper](https://github.com/Aricie/Aricie.PortalKeeper) is a DNN module to build agents - (by: @aricie)
@@ -199,10 +215,13 @@
 - [DNN-SEORedirect](https://github.com/40fingers/DNN-SEORedirect) allow monitor and manage 404's - (by: @40fingers)
 - [DNN-Filecuumcleaner](https://github.com/40fingers/DNN-Filecuumcleaner) utility module, to create jobs to delete files from a specific folder on your website - (by: @40fingers)
 - [dnnsearchandreplace](https://github.com/horacioj/dnnsearchandreplace) DNN Text Search and Replace
+- [PolyDeploy](https://github.com/cantarus/PolyDeploy) A Bulk Deployment tool for the DNN CMS. PolyDeploy is focussed on security, reliability and auditability. (by: @cantarus)
 
 ### Skin Object
 - [DnnC.CookieConsent](https://github.com/dnnconsulting/DnnC.CookieConsent) - (by: @dnnconsulting)
 - [DnnThemeEditor](https://github.com/dnnconsulting/DnnC.DnnThemeEditor) Theme Editor SkinObject - (by: @dnnconsulting)
+- [R7.FeedbackButton](https://github.com/roman-yagodin/R7.FeedbackButton) Feedback skinobject extension - (by: @roman-yagodin)
+- [StyleHelper Skin Object for DNN](https://www.40fingers.net/Portals/0/Downloads/Releases/40Fingers-StyleHelper-02.09.10-SKO-Install.zip) The 40FINGERS Style Helper Skin object allows you to manipulate the CSS, Javascript links and meta tags DNN loads by default. You can remove them, change them and add your own.
 
 ### Free Skins/Theme
 - [DNN Contra](https://github.com/dnnconsulting/DnnC.Contra) Dnn 8/9 responsive theme using Bootstrap 4 - (by: @dnnconsulting)
