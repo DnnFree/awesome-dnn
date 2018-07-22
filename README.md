@@ -23,62 +23,84 @@
 - [nvQuickSite](https://github.com/nvisionative/nvQuickSite) is a desktop installation app for DNN
 - [nvQuickTheme](https://github.com/nvisionative/nvQuickTheme) is a DNN theme framework / development workflow
 - [nvQuickComponents](https://github.com/nvisionative/nvQuickComponents) is a collection of Web Components for DNN extension development (and beyond)
+- [DnnC.DBAnalyzer](https://github.com/dnnconsulting/DnnC.DBAnalyzer) a tool that will give you a visualization of your Dnn database
+- [DnnUserAccess-Mobile](https://github.com/DNN-Connect/DnnUserAccess-Mobile) Mobile app that pairs with the DNN User Access personabar extension. This app is made in React Native.
 
 ### Open Source Modules
 - [DnnFree Module SPA React](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module create using latest React & Webpack
 - [DnnFree Module SPA Angular](https://github.com/DnnFree/DnnFree.Modules.SPA.Angular) a starter DNN SPA Module create using Angular 5
 - DNNCommunity module collection to extend DNN features
-  - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog)
-  - [DNN.Feedback](https://github.com/DNNCommunity/DNN.Feedback)
-  - [DNN.Vendors](https://github.com/DNNCommunity/DNN.Vendors)
-  - [DNN.ActiveDirectory](https://github.com/DNNCommunity/DNN.ActiveDirectory)
-  - [DNN.FormAndList](https://github.com/DNNCommunity/DNN.FormAndList)
-  - [DNN.Faq](https://github.com/DNNCommunity/DNN.Faq)
+  - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) which replaces the feature from DNN Platform which was removed as part of DNN 8
+  - [DNN.Feedback](https://github.com/DNNCommunity/DNN.Feedback) a basic module used for accepting user inquiries
+  - [DNN.Vendors](https://github.com/DNNCommunity/DNN.Vendors) allows admins to manage Vendor relationships and add Advertising banners
+  - [DNN.ActiveDirectory](https://github.com/DNNCommunity/DNN.ActiveDirectory) Active Directory authentication for DNN
+  - [DNN.FormAndList](https://github.com/DNNCommunity/DNN.FormAndList) Design your own table complete with field types, validation and custom user permissions.
+  - [DNN.Faq](https://github.com/DNNCommunity/DNN.Faq) a basic module used for displaying frequently asked questions
   - [Dnn.Newsletter](https://github.com/DNNCommunity/Dnn.Newsletter)
-  - [DNN.IFrame](https://github.com/DNNCommunity/DNN.IFrame)
-  - [DNN.XML](https://github.com/DNNCommunity/DNN.XML)
-  - [DNN.Links](https://github.com/DNNCommunity/DNN.Links)
-  - [DNN.Wiki](https://github.com/DNNCommunity/DNN.Wiki)
-  - [DNN.NewsFeeds](https://github.com/DNNCommunity/DNN.NewsFeeds)
-  - [DNN.Forum](https://github.com/DNNCommunity/DNN.Forum)
+  - [DNN.IFrame](https://github.com/DNNCommunity/DNN.IFrame) a module used for embedding an internal/external URL
+  - [DNN.XML](https://github.com/DNNCommunity/DNN.XML) a module used for displaying XML transformations
+  - [DNN.Links](https://github.com/DNNCommunity/DNN.Links) a basic module used for displaying navigational links
+  - [DNN.Wiki](https://github.com/DNNCommunity/DNN.Wiki) a module that combines a wiki engine with your favourite html editor
+  - [DNN.NewsFeeds](https://github.com/DNNCommunity/DNN.NewsFeeds) a module used for displaying aggregated news feeds
+  - [DNN.Forum](https://github.com/DNNCommunity/DNN.Forum) used for managing forums and email notification of posts
   - [DNNUserGroups](https://github.com/DNNCommunity/DNNUserGroups)
-  - [DNN.Announcements](https://github.com/DNNCommunity/DNN.Announcements)
+  - [DNN.Announcements](https://github.com/DNNCommunity/DNN.Announcements) a basic module used for displaying news items
   - [SecurityAnalyzer](https://github.com/DNNCommunity/SecurityAnalyzer)
-  - [DNN.Events](https://github.com/DNNCommunity/DNN.Events)
-  - [DNN.Reports](https://github.com/DNNCommunity/DNN.Reports)
+  - [DNN.Events](https://github.com/DNNCommunity/DNN.Events) manages display of upcoming events as a list in chronological order or in calendar format
+  - [DNN.Reports](https://github.com/DNNCommunity/DNN.Reports) provides a simple, flexible, view on your database
+  - [CaptainHook](https://github.com/DNNCommunity/CaptainHook) a simple GitHub Bot for processing Pull Requests
+  - [DNN.Gallery](https://github.com/DNNCommunity/DNN.Gallery)
+  - [DNN.Help](https://github.com/DNNCommunity/DNN.Help)
+  - [DNN.Map](https://github.com/DNNCommunity/DNN.Map)
+  - [DNN.Repository](https://github.com/DNNCommunity/DNN.Repository) can be used to store a collection of files, images, links or text
+  - [DNN.Survey](https://github.com/DNNCommunity/DNN.Survey)
+  - [NavigationProviders](https://github.com/DNNCommunity/NavigationProviders) This is a group of Navigation Providers which used to be part of the core DNN Platform
 - [DnnBulkUserDelete](https://github.com/brucerchapman/DnnBulkUserDelete) - (by: @brucerchapman)
 - [dnnGlimpse](https://github.com/jbrinkman/dnnGlimpse) module that aids in troubleshooting server-side - (by: @jbrinkman)
 - [dnnCHAT](https://github.com/ChrisHammond/dnnCHAT) Chat module for DNN - (by: @ChrisHammond)
 - [dnnsimplearticle](https://github.com/ChrisHammond/dnnsimplearticle) A simple DNN articles module - (by: @ChrisHammond)
 - [Message of the Day](https://github.com/ChrisHammond/MessageOfTheDay) A simple MVC module - (by: @ChrisHammond)
-- [Open Url Rewriter](https://github.com/sachatrauwaen/OpenUrlRewriter) improve SEO and overall Site quality - (by: @sachatrauwaen)
-- [Open Content](https://github.com/sachatrauwaen/OpenContent) Structured Content editing - (by: @sachatrauwaen)
-  - [Open Content Template](https://github.com/sachatrauwaen/OpenContent-Templates) Template for Open Content
-- [Open Form](https://github.com/sachatrauwaen/openform) Create end users forms like contact, register, etc - (by: @sachatrauwaen)
-- [Content Localization Tools](https://github.com/sachatrauwaen/CLTools) - (by: @sachatrauwaen)
-- [Database Exporter](https://github.com/IowaComputerGurus/dnn.dbexporter) - (by: @IowaComputerGurus)
-- [Secure Password Recovery](https://github.com/IowaComputerGurus/dnn.SecurePasswordRecovery) - (by: @IowaComputerGurus)
-- [Quiz Module](https://github.com/IowaComputerGurus/icg.dnn.quiz) - (by: @IowaComputerGurus)
-- [Scheduled SQL Jobs](https://github.com/IowaComputerGurus/dnn.scheduledjobs) - (by: @IowaComputerGurus)
-- [Simple File List](http://dnnsimplefilelist.codeplex.com/) Showing files in a particular folder - (by: @IowaComputerGurus)
-- [Expandable Text HTML](https://github.com/IowaComputerGurus/DNN-ExpandableText) Quickly display multiple pieces of content in a compressed area - (by: @IowaComputerGurus)
+- @sachatrauwaen Module collection
+  - [Open Url Rewriter](https://github.com/sachatrauwaen/OpenUrlRewriter) improve SEO and overall Site quality
+  - [NBStore_OpenUrlRewriter](https://github.com/sachatrauwaen/NBStore_OpenUrlRewriter) NBStore Provider for OpenUrlRewriter
+  - [Open Content](https://github.com/sachatrauwaen/OpenContent) Structured Content editing
+    - [Open Content Template](https://github.com/sachatrauwaen/OpenContent-Templates) Template for Open Content
+    - [OpenContent_OpenUrlRewriter](https://github.com/sachatrauwaen/OpenContent_OpenUrlRewriter) DNN OpenUrlRewriter for OpenContent module
+  - [Open Form](https://github.com/sachatrauwaen/openform) Create end users forms like contact, register, etc
+  - [Content Localization Tools](https://github.com/sachatrauwaen/CLTools)
+- @IowaComputerGurus Module Collection
+  - [Database Exporter](https://github.com/IowaComputerGurus/dnn.dbexporter)
+  - [Secure Password Recovery](https://github.com/IowaComputerGurus/dnn.SecurePasswordRecovery)
+  - [Quiz Module](https://github.com/IowaComputerGurus/icg.dnn.quiz)
+  - [Scheduled SQL Jobs](https://github.com/IowaComputerGurus/dnn.scheduledjobs)
+  - [Simple File List](http://dnnsimplefilelist.codeplex.com/) Showing files in a particular folder
+  - [Expandable Text HTML](https://github.com/IowaComputerGurus/DNN-ExpandableText) Quickly display multiple pieces of content in a compressed area
 - [dnnWeather](http://dnnweather.codeplex.com/releases) Weather module for DNN. - (by: @davidCarpinteiro)
 - [Handy Tips - Tooltips](https://github.com/bogdan-litescu/DnNSharp-HandyTips) - Skin Object replaces Dnn Labels with nice tooltips. (by: @dnnsharp)
 - [DNN Redirects](https://github.com/bogdan-litescu/DnnRedirect) - set up redirects by user roles. (by: @dnnsharp)
 - [Fast Shot - Slideshows and Galleries](https://github.com/bogdan-litescu/DnnSharp-FastShot) - Display images as galleries/slideshows (by: @dnnsharp)
 - [Universal Autosave](https://github.com/fordnn/universal-autosave/) - Configure autosave for any form/control. (by: @fordnn)
-- [DataExporter](https://github.com/fordnn/dataexport) - Export Data from database. (by: @fordnn)
-- [User Import & Export](https://github.com/fordnn/usersexportimport) - Export/import users. (by: @fordnn)
-- [User Friendly Registration ](https://github.com/fordnn/ufregistrationplugin) - (by: @fordnn)
+- [DataExporter](https://dataexport.codeplex.com/) - Export Data from database. (by: @fordnn)
+- [User Import & Export](https://usersexportimport.codeplex.com/) - Export/import users. (by: @fordnn)
+- [User Friendly Registration ](https://ufregistrationplugin.codeplex.com/) - (by: @fordnn)
 - [Active Forum](https://github.com/activeforums/ActiveForums) - (by: @activeforums)
 - DNN-Connect Modules collection (by: @DNN-Connect)
   - [DNN-Blog](https://github.com/DNN-Connect/DNN-Blog)
   - [DNN Connect Conference module](https://github.com/DNN-Connect/Conference) is used to create and manage our yearly conferences
+	- [Conference.Mobile](https://github.com/DNN-Connect/Conference.Mobile) Xamarin mobile app for conference module
   - [Connect.Map](https://github.com/DNN-Connect/Map) Google maps module for DNN 8+
   - [DNN.Events](https://github.com/DNN-Connect/DNN.Events)
   - [DNN QA](https://github.com/DNN-Connect/DNNQA)
-  - [DNN-Translator](https://github.com/DNN-Connect/DNN-Translator)
+  - [DNN-Translator](https://github.com/DNN-Connect/DNN-Translator) helps you translate resource files in DNN
   - [RoleManager](https://github.com/DNN-Connect/RoleManager)
+  - [CKEditorProvider](https://github.com/DNN-Connect/CKEditorProvider)
+  - [Connect-Projects](https://github.com/DNN-Connect/Connect-Projects) Project gallery module
+  - [Connect.UserAccess](https://github.com/DNN-Connect/Connect.UserAccess) Personabar extension to manage users' access to a site
+  - [DNNConnect-2016-Demo-ReactJs](https://github.com/DNN-Connect/DNNConnect-2016-Demo-ReactJs) React JS 101 session demo
+  - [Dnn-Powershell](https://github.com/DNN-Connect/Dnn-Powershell) module which allows you to run commands remotely for DNN Platform
+  - [FlickrGallery](https://github.com/DNN-Connect/FlickrGallery) module to show group photos sorted by date taken
+  - [IdentitySwitcher](https://github.com/DNN-Connect/IdentitySwitcher) Allows you to switch between users, without knowing their passwords
+  - [LPManager](https://github.com/DNN-Connect/LPManager) Language Pack Manager, formerly known as DNN Europe LocalizationEditor
 - [dnnDocuments](https://github.com/mitchelsellers/dnnDocuments) - (by: @mitchelsellers)
 - [AppInsights module](https://github.com/davidjrh/dnn.appinsights) - A module to use Visual Studio Application Insights with the DNN (by: @davidjrh)
 - [Redis Caching Provider for DNN](https://github.com/davidjrh/dnn.rediscachingprovider) - (by: @davidjrh)
@@ -119,7 +141,9 @@
   - [Property Agent](https://github.com/ventrian/Property-Agent) Property Agent for DotNetNuke is a templated property module that allows you to manage and display all kinds of properties from cars to boats to real estate
   - [Simple Gallery](https://github.com/ventrian/Simple-Gallery) Simple Gallery for DotNetNuke has been helping DotNetNuke administrators to publish photos and albums to their DotNetNuke portals since 2005
 - [NB-Store](https://github.com/nbrightproject/NBrightBuy) E-Commerce for DNN - (by: @nbrightproject)
+  - [MolliePaymentProvider](https://github.com/dnnconsulting/MolliePaymentProvider) Mollie Payment Provider for NBrightBuy (by: @dnnconsulting)
 - [Aricie.PortalKeeper](https://github.com/Aricie/Aricie.PortalKeeper) is a DNN module to build agents - (by: @aricie)
+- [BBImageStory](https://github.com/weggetor/BBImageStory) is DNN Module for creating image stories - (by: @weggetor)
 - [DnnJobBoard](https://github.com/INNO-Software/DnnJobBoard) a job listing and application module - (by: @INNO-Software)
 - [MyDnn.LiveChat](https://github.com/mydnn/LiveChat) is a powerfull module for Chat with visitors in real-time - (by: @mydnn)
 - [UManage](https://github.com/OPSI-srl/UManage) is Simple and Fast User Management for DNN 8.0 - (by: @OPSI-srl)
@@ -174,14 +198,20 @@
 - [2sxc](https://github.com/2sic/2sxc) helps web designers and developers prepare great looking, animated and sexy content templates in DNN (by: @2sic)
 - [DNN-SEORedirect](https://github.com/40fingers/DNN-SEORedirect) allow monitor and manage 404's - (by: @40fingers)
 - [DNN-Filecuumcleaner](https://github.com/40fingers/DNN-Filecuumcleaner) utility module, to create jobs to delete files from a specific folder on your website - (by: @40fingers)
+- [dnnsearchandreplace](https://github.com/horacioj/dnnsearchandreplace) DNN Text Search and Replace
+
+### Skin Object
+- [DnnC.CookieConsent](https://github.com/dnnconsulting/DnnC.CookieConsent) - (by: @dnnconsulting)
+- [DnnThemeEditor](https://github.com/dnnconsulting/DnnC.DnnThemeEditor) Theme Editor SkinObject - (by: @dnnconsulting)
 
 ### Free Skins/Theme
 - [DNN Contra](https://github.com/dnnconsulting/DnnC.Contra) Dnn 8/9 responsive theme using Bootstrap 4 - (by: @dnnconsulting)
 - [DNN Bootster](https://github.com/dnnconsulting/DnnC.BootsterV2) responsive skin\theme using Bootstrap 4.0.0.beta - (by: @dnnconsulting)
 - [dnnmdesign](https://github.com/dnnconsulting/DnnC.MDesign) Bootstrap 3.3.6 Theme - (by: @dnnconsulting)
-- [DnnThemeEditor](https://github.com/dnnconsulting/DnnC.DnnThemeEditor/releases) Theme Editor SkinObject - (by: @dnnconsulting)
 - [DnnC.Minimalist](https://github.com/dnnconsulting/DnnC.Minimalist) Bootstrap 3 Theme - (by: @dnnconsulting)
+- [DnnC.Dnn-Connect-2017-Sass-Theme](https://github.com/dnnconsulting/DnnC.Dnn-Connect-2017-Sass-Theme) Demo of a Dnn Skeleton theme using Sass - (by: @dnnconsulting)
 - [HammerFlex](https://github.com/ChrisHammond/HammerFlex) Bootstrap 3 Theme - (by: @ChrisHammond)
+- [HammerHead](https://github.com/ChrisHammond/HammerHead) theme for DNN9 using BootStrap 4 - (by: @ChrisHammond)
 - [R7.Epsilon](https://github.com/roman-yagodin/R7.Epsilon) Bootstrap 3 - (by: @roman-yagodin)
 - [Bootstrap3 Instant](https://github.com/2sic/dnn-theme-bootstrap3-instant) - (by: @2sxc)
 - [nvQuickTheme: DNN 9 + Bootstrap 4](https://github.com/nvisionative/nvQuickTheme) great minimalist DNN theme- (by: @nvisionative)
