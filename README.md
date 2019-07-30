@@ -14,6 +14,7 @@
 - [DnnPackager - Getting Started](http://darrelltunnell.net/blog/2015/12/01/dnnpackager-getting-started/)
 
 ### Development Tools
+- [Generator-Upendodnn](https://github.com/UpendoVentures/generator-upendodnn) A yeoman generator that scaffolds DNN extensions, including Modules (Webforms, SPA, and MVC), Persona Bar, Skin Object, Library, Scheduler, and Hotcakes Commerce projects
 - [DnnFree React](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module create using latest React & Webpack
 - [DnnFree Angular](https://github.com/DnnFree/DnnFree.Modules.SPA.Angular) a starter DNN SPA Module create using Angular 5 (with Angular-CLI)
 - [DNNTemplates](https://github.com/ChrisHammond/DNNTemplates) DNN Module and Theme Development Template for DNN 7/8/9
