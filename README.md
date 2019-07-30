@@ -9,7 +9,8 @@
 - [DNN Videos](http://www.dnnsoftware.com/videos)
 
 ### Community Site
-- [dnncommunity.org](https://dnncommunity.org/)
+- [dnncommunity.org](https://dnncommunity.org/) Official community site
+- [DnnDocs.com](https://www.dnndocs.com/) Documentation created for the community, by the community
 
 ### Tutorial
 
