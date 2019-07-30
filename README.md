@@ -8,6 +8,9 @@
 - [DNN Docs](http://www.dnnsoftware.com/docs/index.html)
 - [DNN Videos](http://www.dnnsoftware.com/videos)
 
+### Official Community Site
+- [dnncommunity.org](https://dnncommunity.org/)
+
 ### Tutorial
 
 - [DNNTemplates - Using the new Module Development Templates for DotNetNuke](http://www.chrishammond.com/Blog/itemid/2616/using-the-new-module-development-templates-for-dot)
