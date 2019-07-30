@@ -8,7 +8,7 @@
 - [DNN Docs](http://www.dnnsoftware.com/docs/index.html)
 - [DNN Videos](http://www.dnnsoftware.com/videos)
 
-### Official Community Site
+### Community Site
 - [dnncommunity.org](https://dnncommunity.org/)
 
 ### Tutorial
