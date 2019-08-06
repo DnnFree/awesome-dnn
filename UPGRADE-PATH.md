@@ -10,7 +10,7 @@
 | 04.09.05 | 05.04.04 |
 | 05.04.04 | 05.06.08 |
 | 05.06.08 | 06.02.08 |
-| 06.02.08 | 07.04.02 |
-| 07.04.02 | 08.00.04 |
-| 08.00.04 | 09.01.01 |
-| 09.01.01 | 09.03.02 |
+| 06.02.08 | [07.04.02](https://github.com/dnnsoftware/Dnn.Releases.Archive.7x/tree/master/07.04.02) |
+| 07.04.02 | [08.00.04](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v8.0.4) |
+| 08.00.04 | [09.01.01](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.1.1) |
+| 09.01.01 | [09.03.02](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.3.2) |
