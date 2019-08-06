@@ -1,3 +1,5 @@
+## DotNetNuke Suggested Upgrade Path
+
 | FROM VERSION  | TO VERSION |
 | ------------- | ------------- |
 | 02.00.04 | 02.01.02 |
