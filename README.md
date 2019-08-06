@@ -223,6 +223,9 @@
 - [dnnsearchandreplace](https://github.com/horacioj/dnnsearchandreplace) DNN Text Search and Replace
 - [PolyDeploy](https://github.com/cantarus/PolyDeploy) A Bulk Deployment tool for the DNN CMS. PolyDeploy is focussed on security, reliability and auditability. (by: @cantarus)
 
+### Provider
+- [CKEditor](https://github.com/w8tcha/dnnckeditor) An WYSIWYG HTML Editor Provider for DNN® 9.3.2 or above
+
 ### Skin Object
 - [DnnC.CookieConsent](https://github.com/dnnconsulting/DnnC.CookieConsent) - (by: @dnnconsulting)
 - [DnnThemeEditor](https://github.com/dnnconsulting/DnnC.DnnThemeEditor) Theme Editor SkinObject - (by: @dnnconsulting)
