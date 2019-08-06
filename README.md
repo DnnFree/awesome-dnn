@@ -13,7 +13,8 @@
 - [DnnDocs.com](https://www.dnndocs.com/) Documentation created for the community, by the community
 
 ### Tutorial
-
+- [DNN Token](https://github.com/DnnFree/awesome-dnn/blob/master/DNN-TOKEN.md)
+- [DNN Suggested Upgrade Path](https://github.com/DnnFree/awesome-dnn/blob/master/UPGRADE-PATH.md)
 - [DNNTemplates - Using the new Module Development Templates for DotNetNuke](http://www.chrishammond.com/Blog/itemid/2616/using-the-new-module-development-templates-for-dot)
 - [DnnPackager - Getting Started](http://darrelltunnell.net/blog/2015/12/01/dnnpackager-getting-started/)
 
