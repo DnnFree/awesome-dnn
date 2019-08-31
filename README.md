@@ -19,6 +19,16 @@
 - [DNN Suggested Upgrade Path](https://github.com/DnnFree/awesome-dnn/blob/master/UPGRADE-PATH.md)
 - [DNNTemplates - Using the new Module Development Templates for DotNetNuke](http://www.chrishammond.com/Blog/itemid/2616/using-the-new-module-development-templates-for-dot)
 - [DnnPackager - Getting Started](http://darrelltunnell.net/blog/2015/12/01/dnnpackager-getting-started/)
+- DNN 9 Persona Bar
+	1. [Persona Bar Architecture](https://www.dnnsoftware.com/community-blog/cid/155381/dnn-9-persona-bar-architecture)
+	2. [Extending the Persona Bar](https://www.dnnsoftware.com/community-blog/cid/155384/dnn-9-extending-the-persona-bar)
+	3. [Adding a ReactJS App to Persona Bar](https://www.dnnsoftware.com/community-blog/cid/155391/dnn9-adding-a-reactjs-app-to-persona-bar)
+	4. [Diving in a ReactJS Persona Bar Extension](https://www.dnnsoftware.com/community-blog/cid/155393/dnn9-diving-in-a-reactjs-persona-bar-extension)
+	5. [Calling an existing Web API from the Persona Bar](https://www.dnnsoftware.com/community-blog/cid/155404/dnn9-calling-an-existing-web-api-from-the-persona-bar)
+	6. [Working with Common Components in the Persona Bar](https://www.dnnsoftware.com/community-blog/cid/155405/dnn9-working-with-common-components-in-the-personabar)
+	7. [Using Common Components outside of the Persona Bar](https://www.dnnsoftware.com/community-blog/cid/155407/dnn9-using-common-components-outside-of-the-persona-bar)
+- [DNN 9.4.0: DNN Dependency Injection: .NET Core](https://www.andrewhoefling.com/Blog/Post/dnn-dependency-injection)
+	- [sample](https://github.com/DnnFree/DNN.DependencyInjection.Samples)
 
 ### Development Tools
 - [Generator-Upendodnn](https://github.com/UpendoVentures/generator-upendodnn) A yeoman generator that scaffolds DNN extensions, including Modules (Webforms, SPA, and MVC), Persona Bar, Skin Object, Library, Scheduler, and Hotcakes Commerce projects
