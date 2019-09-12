@@ -4,7 +4,7 @@
 
 ### Official Resources
 - [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform) - [Latest release](https://github.com/dnnsoftware/Dnn.Platform/releases)
-	- [v9.4.0 - RC1](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.4.0-rc1)
+	- [v9.4.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.4.0)
 	- [v9.3.2](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.3.2)
 - [DNN wiki](http://www.dnnsoftware.com/wiki)
 - [DNN Docs](http://www.dnnsoftware.com/docs/index.html)
