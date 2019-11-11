@@ -234,6 +234,7 @@
 - [DNN-Filecuumcleaner](https://github.com/40fingers/DNN-Filecuumcleaner) utility module, to create jobs to delete files from a specific folder on your website - (by: @40fingers)
 - [dnnsearchandreplace](https://github.com/horacioj/dnnsearchandreplace) DNN Text Search and Replace
 - [PolyDeploy](https://github.com/cantarus/PolyDeploy) A Bulk Deployment tool for the DNN CMS. PolyDeploy is focussed on security, reliability and auditability. (by: @cantarus)
+- [Ventrian Property Agent](https://scippy.github.io/Property-Agent/) - Updated module of originale Ventrian Property Agent (by: @scippy)
 
 ### Provider
 - [CKEditor](https://github.com/w8tcha/dnnckeditor) An WYSIWYG HTML Editor Provider for DNN® 9.3.2 or above
