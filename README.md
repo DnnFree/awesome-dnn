@@ -2,6 +2,14 @@
 
 > A curated list of awesome things related to DNN
 
+### WARNING
+[Some DNN sites is reported being hack.](https://dnncommunity.org/forums/aft/684)
+
+The Hacker is targeting DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx to upload Web Shell that allow him to access and overwrite you Server.
+
+Its recommended to UPGRADE your DNN to version 9.4
+
+
 ### Official Resources
 - [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform) - [Latest release](https://github.com/dnnsoftware/Dnn.Platform/releases)
 	- [v9.4.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.4.0)
