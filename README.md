@@ -12,6 +12,7 @@ Its recommended to UPGRADE your DNN to at least version 9.4
 
 ### Official Resources
 - [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform) - [Latest release](https://github.com/dnnsoftware/Dnn.Platform/releases)
+	- [v9.6.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.6.0)
 	- [v9.5.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.5.0)
 	- [v9.4.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.4.0)
 	- [v9.3.2](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.3.2)
