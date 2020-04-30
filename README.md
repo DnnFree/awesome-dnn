@@ -19,6 +19,18 @@ Its recommended to UPGRADE your DNN to at least version 9.4
 - [DNN wiki](http://www.dnnsoftware.com/wiki)
 - [DNN Docs](http://www.dnnsoftware.com/docs/index.html)
 - [DNN Videos](http://www.dnnsoftware.com/videos)
+- [DNN Core Modules](https://github.com/dnnsoftware/Dnn.Platform/tree/master/DNN%20Platform/Modules)
+	- CoreMessaging
+	- DDRMenu
+	- DigitalAssets
+	- DnnExportImport
+	- DnnExportImportLibrary
+	- Groups
+	- Html
+	- HtmlEditorManager
+	- Journal
+	- MemberDirectory
+	- RazorHost
 
 ### Community Site
 - [dnncommunity.org](https://dnncommunity.org/) Official community site
