@@ -257,6 +257,7 @@ Its recommended to UPGRADE your DNN to at least version 9.4
 - [dnnsearchandreplace](https://github.com/horacioj/dnnsearchandreplace) DNN Text Search and Replace
 - [PolyDeploy](https://github.com/cantarus/PolyDeploy) A Bulk Deployment tool for the DNN CMS. PolyDeploy is focussed on security, reliability and auditability. (by: @cantarus)
 - [Ventrian Property Agent](https://scippy.github.io/Property-Agent/) - Updated module of originale Ventrian Property Agent (by: @scippy)
+- [40fingers DNN-SEORedirect](https://github.com/40fingers/DNN-SEORedirect) allow you to monitor and manage the 404's your DNN site is receiving and redirect (301) them
 
 ### Provider
 - [CKEditor](https://github.com/w8tcha/dnnckeditor) An WYSIWYG HTML Editor Provider for DNN® 9.3.2 or above
@@ -265,7 +266,7 @@ Its recommended to UPGRADE your DNN to at least version 9.4
 - [DnnC.CookieConsent](https://github.com/dnnconsulting/DnnC.CookieConsent) - (by: @dnnconsulting)
 - [DnnThemeEditor](https://github.com/dnnconsulting/DnnC.DnnThemeEditor) Theme Editor SkinObject - (by: @dnnconsulting)
 - [R7.FeedbackButton](https://github.com/roman-yagodin/R7.FeedbackButton) Feedback skinobject extension - (by: @roman-yagodin)
-- [StyleHelper Skin Object for DNN](https://www.40fingers.net/Portals/0/Downloads/Releases/40Fingers-StyleHelper-02.09.10-SKO-Install.zip) The 40FINGERS Style Helper Skin object allows you to manipulate the CSS, Javascript links and meta tags DNN loads by default. You can remove them, change them and add your own.
+- [StyleHelper](https://github.com/40fingers/StyleHelper-Sko) The 40FINGERS Style Helper Skin object allows you to manipulate the CSS, Javascript links and meta tags DNN loads by default. You can remove them, change them and add your own.
 
 ### Free Skins/Theme
 - [DNN Contra](https://github.com/dnnconsulting/DnnC.Contra) Dnn 8/9 responsive theme using Bootstrap 4 - (by: @dnnconsulting)
