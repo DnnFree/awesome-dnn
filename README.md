@@ -54,7 +54,7 @@ Its recommended to UPGRADE your DNN to at least version 9.4
 
 ### Development Tools
 - [Generator-Upendodnn](https://github.com/UpendoVentures/generator-upendodnn) A yeoman generator that scaffolds DNN extensions, including Modules (Webforms, SPA, and MVC), Persona Bar, Skin Object, Library, Scheduler, and Hotcakes Commerce projects
-- [DnnFree React](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module create using latest React & Webpack
+- [DnnFree React](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module with API, create using latest React & Webpack
 - [DnnFree Angular](https://github.com/DnnFree/DnnFree.Modules.SPA.Angular) a starter DNN SPA Module create using Angular 5 (with Angular-CLI)
 - [DNNTemplates](https://github.com/ChrisHammond/DNNTemplates) DNN Module and Theme Development Template for DNN 7/8/9
 - [TopMenu](https://github.com/jbrinkman/TopMenu) Sample Razor Templates for DDRMenu
@@ -72,7 +72,7 @@ Its recommended to UPGRADE your DNN to at least version 9.4
 - [R7.Webmaster](https://github.com/roman-yagodin/R7.Webmaster) Webmaster's desktop productivity tools
 
 ### Open Source Modules
-- [DnnFree Module SPA React](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module create using latest React & Webpack
+- [DnnFree Module SPA React](https://github.com/DnnFree/DnnFree.Modules.SPA.React) a starter DNN SPA Module with API, create using latest React & Webpack
 - [DnnFree Module SPA Angular](https://github.com/DnnFree/DnnFree.Modules.SPA.Angular) a starter DNN SPA Module create using Angular 5
 - DNNCommunity module collection to extend DNN features
   - [Dnn.SiteLog](https://github.com/DNNCommunity/Dnn.SiteLog) which replaces the feature from DNN Platform which was removed as part of DNN 8
