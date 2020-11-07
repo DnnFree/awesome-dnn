@@ -2,8 +2,38 @@
 
 > A curated list of awesome things related to DNN
 
+### Noteworthy Changes in v9.8.0 - Optional Telerik Removal
+The major highlight for this release is that we removed all our dependencies on the Telerik library. In oder to not make this a breaking change, we do leave Telerik removal as a manual option until v10. The main component that still relied on Telerik where Site Assets and Global assets which used Digital Assets Manager. We ship with v9.8.0 a new file manager that has no dependencies on Telerik but it is not installed by default to not break existing sites upon upgrades. Please note that it will be automatically replaced in v10, so please test and plan accordingly.
+
+To help you try to identify if you have any other 3rd party extension that depends on Telerik, our very own @mitchelsellers has published the [Dnn Telerik Identitier](https://github.com/IowaComputerGurus/DnnTelerikIdentifier) module which you can download and install to try and list all assemblies that reference Telerik.
+
+If you want in v9.8.0 to remove the Telerik library, here are the steps to do so (please note this may also break any other 3rd party module that depends on Telerik):
+
+1. Take a full backup of the site and database.
+2. In Extensions > Available Extensions > Modules : Install the Resource Manager module.
+3. Navigate to Site Assets, remove the Digital Assets manager module from the page, insert an instance of the Resource Manager.
+4. Repeat step 3 but for the Global Assets page.
+5. In SQL Console Run the following command:
+	
+```
+UPDATE {databaseOwner}{objectQualifier}Packages
+SET IsSystemPackage = 0
+WHERE Name IN ('DigitalAssetsManagement', 'DotNetNuke.Telerik.Web', 'DotNetNuke.Web.Deprecated', 'DotNetNuke.Website.Deprecated')
+```
+
+6. Go to Servers and Clear cache.
+7. In Extensions > Modules , uninstall Digital Assets Manager (Tick delete files).
+8. In Extensions > Libraries, uninstall DotNetNuke Telerik Web Components (Tick delete files).
+9. In Extensions > Libraries, uninstall DNN Deprecated Web Controls Library (Tick delete files).
+10. In Extensions > Libraries, uninstall DotNetNuke Deprecated Website Codebehind files (Tick delete files).
+11. Open the web.config file and search for Telerik, delete any lines that reference it.
+12. Verify in bin folder, there is no dlls including the word Telerik.
+13. Test your 3rd party modules to make sure they still work without Telerik.
+
 ### Official Resources
 - [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform) - [Latest release](https://github.com/dnnsoftware/Dnn.Platform/releases)
+	- [v9.8.0-rc2](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.8.0-rc2)
+	- [v9.7.2](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.7.2)
 	- [v9.6.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.6.0)
 	- [v9.5.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.5.0)
 	- [v9.4.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.4.0)
