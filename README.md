@@ -43,6 +43,13 @@ GO
 12. Open the ```web.config``` file within the site root and search for "Telerik". Delete any lines that reference it.
 13. Test all third-party modules to make sure they still work without Telerik. If any do not work properly, please contact the developer/vendor for further guidance.
 
+### [Upgrade Path](https://github.com/DnnFree/awesome-dnn/blob/master/UPGRADE-PATH.md)
+05.06.08 - 06.02.08 - 07.04.02 - 08.00.04 - 09.01.01 - 09.03.02 - 09.08.00
+
+notes:
+- make sure all module run smooth on 09.03.02 before upgrade to 9.8.0
+- there's an error during upgrade coming from DNNSharp.Common. (Temporary move all DNNSharp library or upgrade to latest)
+
 ### Official Resources
 - [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform) - [Latest release](https://github.com/dnnsoftware/Dnn.Platform/releases)
 	- [v9.8.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.8.0)
