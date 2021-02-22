@@ -160,20 +160,28 @@ notes:
   - [OpenOutputCache](https://github.com/sachatrauwaen/OpenOutputCache) 
   - [Content Localization Tools](https://github.com/sachatrauwaen/CLTools)
 - @IowaComputerGurus Module Collection
+  - [**DNN Telerik Identifier**](https://github.com/IowaComputerGurus/DnnTelerikIdentifier)
   - [Database Exporter](https://github.com/IowaComputerGurus/dnn.dbexporter)
   - [Secure Password Recovery](https://github.com/IowaComputerGurus/dnn.SecurePasswordRecovery)
+  - [DNN Log Cleaner](https://github.com/IowaComputerGurus/DnnLogCleaner)
+  - [DNN Secure My Install](https://github.com/IowaComputerGurus/dnn.secureMyInstall)
+  - [DNN Simple Bootstrap Accordion](https://github.com/IowaComputerGurus/dnn.simpleBootstrapAccordion)
+  - [DNN Simple Bootstrap Tabs](https://github.com/IowaComputerGurus/dnn.simpleBootstrapTabs)
+  - [DNN News Articles URL Provider](https://github.com/IowaComputerGurus/dnn.newsArticlesUrlProvider)
   - [Quiz Module](https://github.com/IowaComputerGurus/icg.dnn.quiz)
   - [Scheduled SQL Jobs](https://github.com/IowaComputerGurus/dnn.scheduledjobs)
-  - [Simple File List](http://dnnsimplefilelist.codeplex.com/) Showing files in a particular folder
+  - [Simple File List](https://github.com/IowaComputerGurus/dnn.SimpleFileList) Showing files in a particular folder
   - [Expandable Text HTML](https://github.com/IowaComputerGurus/DNN-ExpandableText) Quickly display multiple pieces of content in a compressed area
 - [dnnWeather](http://dnnweather.codeplex.com/releases) Weather module for DNN. - (by: @davidCarpinteiro)
 - [Handy Tips - Tooltips](https://github.com/bogdan-litescu/DnNSharp-HandyTips) - Skin Object replaces Dnn Labels with nice tooltips. (by: @dnnsharp)
 - [DNN Redirects](https://github.com/bogdan-litescu/DnnRedirect) - set up redirects by user roles. (by: @dnnsharp)
 - [Fast Shot - Slideshows and Galleries](https://github.com/bogdan-litescu/DnnSharp-FastShot) - Display images as galleries/slideshows (by: @dnnsharp)
-- [Universal Autosave](https://github.com/fordnn/universal-autosave/) - Configure autosave for any form/control. (by: @fordnn)
-- [DataExporter](https://dataexport.codeplex.com/) - Export Data from database. (by: @fordnn)
-- [User Import & Export](https://usersexportimport.codeplex.com/) - Export/import users. (by: @fordnn)
-- [User Friendly Registration ](https://ufregistrationplugin.codeplex.com/) - (by: @fordnn)
+- @fordnn Collection
+  - [Universal Autosave](https://github.com/fordnn/universal-autosave/) - Configure autosave for any form/control.
+  - [Data Exporter](https://github.com/fordnn/dataexport) - Export Data from database.
+  - [User Import & Export](https://github.com/fordnn/usersexportimport) - Export/import users.
+  - [User Friendly Registration ](https://github.com/fordnn/ufregistrationplugin)
+  - [Reverse SiteUrls](https://github.com/fordnn/reversesiteurls)
 - [Active Forum](https://github.com/activeforums/ActiveForums) - (by: @activeforums)
 - DNN-Connect Modules collection (by: @DNN-Connect)
   - [DNN-Blog](https://github.com/DNN-Connect/DNN-Blog)
