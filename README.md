@@ -52,6 +52,8 @@ notes:
 
 ### Official Resources
 - [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform) - [Latest release](https://github.com/dnnsoftware/Dnn.Platform/releases)
+	- [v9.9.1](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.9.1)
+	- [v9.9.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.9.0)
 	- [v9.8.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.8.0)
 	- [v9.7.2](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.7.2)
 	- [v9.6.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.6.0)
