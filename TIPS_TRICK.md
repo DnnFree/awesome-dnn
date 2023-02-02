@@ -19,7 +19,6 @@
 <script runat="server">
 
   public string pageSettings { get; set; }
-  public CustomComponent cc { get; set; }
     
   protected override void OnInit(EventArgs e)
   {
