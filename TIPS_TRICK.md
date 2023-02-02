@@ -1,3 +1,7 @@
+### DNN quick setup on Local Computer
+- Download and Install [NvQuickSite](https://github.com/nvisionative/nvQuickSite/releases)
+- Use NvQuickSite to Create a new DNN site
+
 ### Set default container on Pane
 
 `<div id="Pane" containertype="L" containername="FolderName" containersrc="MyContainer.ascx" runat="server"> </div>`
