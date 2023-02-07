@@ -2,6 +2,10 @@
 
 > A curated list of awesome things related to DNN
 
+### v9.11.0 Notes
+Telerik removal automatically happen in 9.11, it's not require to run all process below.
+But due some Resources issue, it's better wait until v9.11.1 is out.
+
 ### Noteworthy Changes in v9.8.0 - Optional Telerik Removal
 The major highlight for this release is that we removed all our dependencies on the Telerik library. In oder to not make this a breaking change, we do leave Telerik removal as a manual option until v10. The main component that still relied on Telerik where Site Assets and Global assets which used Digital Assets Manager. We ship with v9.8.0 a new file manager that has no dependencies on Telerik but it is not installed by default to not break existing sites upon upgrades. Please note that it will be automatically replaced in v10, so please test and plan accordingly.
 
