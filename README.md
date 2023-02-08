@@ -4,7 +4,6 @@
 
 ### v9.11.0 Notes
 Telerik removal automatically happen in 9.11, it's not require to run all process below.
-But due some Resources issue, it's better wait until v9.11.1 is out.
 
 ### Noteworthy Changes in v9.8.0 - Optional Telerik Removal
 The major highlight for this release is that we removed all our dependencies on the Telerik library. In oder to not make this a breaking change, we do leave Telerik removal as a manual option until v10. The main component that still relied on Telerik where Site Assets and Global assets which used Digital Assets Manager. We ship with v9.8.0 a new file manager that has no dependencies on Telerik but it is not installed by default to not break existing sites upon upgrades. Please note that it will be automatically replaced in v10, so please test and plan accordingly.
@@ -48,7 +47,7 @@ GO
 13. Test all third-party modules to make sure they still work without Telerik. If any do not work properly, please contact the developer/vendor for further guidance.
 
 ### [Upgrade Path](https://github.com/DnnFree/awesome-dnn/blob/master/UPGRADE-PATH.md)
-[05.06.08](https://github.com/dnnsoftware/Dnn.Releases.Archive.5x) - [06.02.08](https://github.com/dnnsoftware/Dnn.Releases.Archive.6x) - [07.04.02](https://github.com/dnnsoftware/Dnn.Releases.Archive.7x) - [08.00.04](https://github.com/dnnsoftware/Dnn.Releases.Archive.8x) - 09.01.01 - 09.03.02 - 09.08.00 - 09.10.02 (Recommended due some minor issue on 9.11)
+[05.06.08](https://github.com/dnnsoftware/Dnn.Releases.Archive.5x) - [06.02.08](https://github.com/dnnsoftware/Dnn.Releases.Archive.6x) - [07.04.02](https://github.com/dnnsoftware/Dnn.Releases.Archive.7x) - [08.00.04](https://github.com/dnnsoftware/Dnn.Releases.Archive.8x) - 09.01.01 - 09.03.02 - 09.08.00 - 09.10.02
 
 notes:
 - make sure all module run smooth on 09.03.02 before upgrade to 9.8.0
