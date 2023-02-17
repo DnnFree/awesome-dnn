@@ -39,3 +39,6 @@
   }
 </script>
 ```
+
+### Using a Different Version of jQuery via CDN
+[Using a Different Version of jQuery via CDN](https://dnnsupport.dnnsoftware.com/hc/en-us/articles/360012277219-Using-a-Different-Version-of-jQuery-via-CDN)
