@@ -2,9 +2,40 @@
 
 > A curated list of awesome things related to DNN
 
-### v9.11.0 Notes
-Telerik removal automatically happen in 9.11, it's not require to run all process below.
+## New Installation Recommendation
+09.13.09 - upgrade to: 10.00.01
 
+### v10.0.1 - Known Issue
+- Upgrade issues with localized sites. If your site uses localization we recommend waiting before upgrading to DNN v10.x.x for now. New installations do not appear to have that issue.
+
+## v10.0.0
+### v10.0.0 - Known Issue
+- On new installs only (not on upgrades) and issue has been found where some items would be missing in the web.config file. As a workaround, until the next patch release is published, if you want to start a new website on DNN10, you can install latest v9.x.x release first and then upgrade to 10.0.0 instead.
+- Upgrade issues with localized sites. If your site uses localization we recommend waiting before upgrading to DNN v10.x.x for now. New installations do not appear to have that issue.
+
+### v10.0.0 - Breaking Change
+
+- Removed all obsolete APIs marked as deprecated in v8 and before.
+- Forced Telerik Removal
+- Removed support for WebSlices
+- Enabled Dependency Injection for Prompt commands
+- Enabled dependency injection for connectors
+- Installs CodeDOM provider by default
+- Upgraded all projects from .NET 4.7.2 to .NET 4.8
+- Fixed sql scripts and new rollup scripts (minimum supported SQL Server version is now 2017 (14.x)).
+- Updated Html module to use the new Content Workflow API
+
+### v.10.0 - Noteworthy Changes
+
+- New styles system: DNN now provides a way for site owners (hosts by default and admins optionaly) to choose some branding preferences using the UI. Designers and developers can then consume site branding preferences in their own solutions. As a developer, if you need the portal preferred styles server-side, you can now get them from `PortalSettings.GetStyles()`. In the client-side of things, css variables (custom properties) as available in the `:root` scope. All dnn custom properties are prefixed by `--dnn`
+- New default dependency-free theme `Aperture` (customizable by above styles)
+- Added support for JWT Audience
+- Sitemap now produces alternate links in multilingual websites
+- Multiple modules can now be part of a single package (manifest)
+- Added support for RoleUpdated event.
+- Added support for API tokens
+
+## v9.8.0
 ### Noteworthy Changes in v9.8.0 - Optional Telerik Removal
 The major highlight for this release is that we removed all our dependencies on the Telerik library. In oder to not make this a breaking change, we do leave Telerik removal as a manual option until v10. The main component that still relied on Telerik where Site Assets and Global assets which used Digital Assets Manager. We ship with v9.8.0 a new file manager that has no dependencies on Telerik but it is not installed by default to not break existing sites upon upgrades. Please note that it will be automatically replaced in v10, so please test and plan accordingly.
 
@@ -47,14 +78,17 @@ GO
 13. Test all third-party modules to make sure they still work without Telerik. If any do not work properly, please contact the developer/vendor for further guidance.
 
 ### [Upgrade Path](https://github.com/DnnFree/awesome-dnn/blob/master/UPGRADE-PATH.md)
-[05.06.08](https://github.com/dnnsoftware/Dnn.Releases.Archive.5x) - [06.02.08](https://github.com/dnnsoftware/Dnn.Releases.Archive.6x) - [07.04.02](https://github.com/dnnsoftware/Dnn.Releases.Archive.7x) - [08.00.04](https://github.com/dnnsoftware/Dnn.Releases.Archive.8x) - 09.01.01 - 09.03.02 - 09.08.00 - 09.10.02
+[05.06.08](https://github.com/dnnsoftware/Dnn.Releases.Archive.5x) - [06.02.08](https://github.com/dnnsoftware/Dnn.Releases.Archive.6x) - [07.04.02](https://github.com/dnnsoftware/Dnn.Releases.Archive.7x) - [08.00.04](https://github.com/dnnsoftware/Dnn.Releases.Archive.8x) - 09.01.01 - 09.03.02 - 09.08.00 - 09.10.02 - 09.13.09 - 10.00.01
 
 notes:
 - make sure all module run smooth on 09.03.02 before upgrade to 9.8.0
 
 ### Official Resources
 - [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform) - [Latest release](https://github.com/dnnsoftware/Dnn.Platform/releases)
-	- [v9.11.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.11.0)
+	- [v10.0.1](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v10.0.1)
+ 	- [v9.13.9](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.13.9)
+  	- [v9.12.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.12.0)
+  	- [v9.11.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.11.0)
 	- [v9.10.2](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.10.2)
 	- [v9.9.1](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.9.1)
 	- [v9.9.0](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.9.0)
